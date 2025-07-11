@@ -12,4 +12,3 @@ Cattail Fluff
 
 https://youtu.be/-ABCvVTeJtk
 
-Також до нього йде мод Begone Naturalist Cattail

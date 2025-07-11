@@ -2,4 +2,4 @@
 
 https://www.curseforge.com/minecraft/mc-mods/ecologics
 
-Мод, додає контент зі звірятами, молодший браза [[!Naturalist]]
+Мод, додає контент зі звірятами, молодший браза [[Naturalist]]
