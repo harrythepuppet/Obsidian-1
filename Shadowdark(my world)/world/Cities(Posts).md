@@ -1,1 +1,1 @@
-Cities can be defined by their sizes(or by sizes of )
+Cities can be defined by their sizes(means how much districts are there)

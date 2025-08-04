@@ -1,0 +1,1 @@
+Life goal is a quest, that is personal to a player's char and can be 
