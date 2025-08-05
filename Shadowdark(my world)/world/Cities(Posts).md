@@ -18,5 +18,6 @@ A church of a certain god, place of power for a cleric, also can restore magic
 #### Sanitarium
 Place to heal characters, attac
 
+
 #### Shady market
-Market to sell and buy artifacts, unre
+Market to sell and buy artifacts, not restrained by any plot
