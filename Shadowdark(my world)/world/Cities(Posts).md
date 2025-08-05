@@ -21,3 +21,5 @@ Place to heal characters, attach prosthetics, cure illnesses, recover
 Place to stock up on food, clothes, simple accessories and equipment
 #### Shady market
 Market to sell and buy artifacts, not restrained by any plot
+#### Training grounds
+Place where characters could 
