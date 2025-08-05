@@ -22,4 +22,5 @@ Place to stock up on food, clothes, simple accessories and equipment
 #### Shady market
 Market to sell and buy artifacts, not restrained by any plot
 #### Training grounds
-Place where characters could 
+Place where characters could learn a skill
+
