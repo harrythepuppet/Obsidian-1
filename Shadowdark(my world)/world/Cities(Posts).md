@@ -12,8 +12,8 @@ City\Post(4 districts)
 #### Tavern
 A place for saving progress, using [[Stash]] and Carousing
 #### Smithy
-A place for repairing tools and armor, selling **scrap** and turn scrap into equipment
+A place for repairing tools and armor(and magic), selling **scrap** and turn scrap into equipment
 #### Altar(of ???)
-A church of a certain god, place of power for a cleric
+A church of a certain god, place of power for a cleric, also can restore magic
 #### Sanitarium
-Place to heal charact
+Place to heal characters, attac
