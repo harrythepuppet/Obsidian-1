@@ -16,8 +16,8 @@ A place for repairing tools and armor(and magic), selling **scrap** and turn scr
 #### Altar(of ???)
 A church of a certain god, place of power for a cleric, also can restore magic
 #### Sanitarium
-Place to heal characters, attac
-
+Place to heal characters, attach prosthetics, cure illnesses, recover
+#### Market
 
 #### Shady market
 Market to sell and buy artifacts, not restrained by any plot
