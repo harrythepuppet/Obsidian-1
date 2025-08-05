@@ -4,4 +4,4 @@
 |Custom Token|(none)|
 |Custom Table (Square)|A square image (ex. 2048x2048)|
 |Custom Table (Rectangle)|**4400×2600**|
-Grid Size 2 - 26x44 grids
+Grid Size 2 - 26x44 grids - півкілома площа
