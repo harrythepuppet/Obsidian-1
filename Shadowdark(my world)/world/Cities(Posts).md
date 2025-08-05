@@ -1,5 +1,8 @@
 Cities can be defined by their sizes(means how much districts are there)
 
+Camp (1 district, will expire/change position after 24 hours it was discovered if players are not in this camp)
+
+Village (1 districts)
 ### All Districts
 
 #### Tavern
@@ -9,4 +12,4 @@ A place for repairing tools and armor, selling **scrap** and turn scrap into equ
 #### Altar(of ???)
 A church of a certain god, place of power for a cleric
 #### Sanitarium
-
+Place to heal 
