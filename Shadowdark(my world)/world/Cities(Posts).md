@@ -18,6 +18,6 @@ A church of a certain god, place of power for a cleric, also can restore magic
 #### Sanitarium
 Place to heal characters, attach prosthetics, cure illnesses, recover
 #### Market
-
+Place to stock up on food, clothes, simple accessories and equipment
 #### Shady market
 Market to sell and buy artifacts, not restrained by any plot
