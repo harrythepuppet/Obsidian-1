@@ -8,4 +8,5 @@ A place for saving progress, using [[Stash]] and Carousing
 A place for repairing tools and armor, selling **scrap** and turn scrap into equipment
 #### Altar(of ???)
 A church of a certain god, place of power for a cleric
-#### Smithy
+#### Sanitarium
+
