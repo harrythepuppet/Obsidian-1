@@ -5,9 +5,9 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 | D12 | Phobia           | Explanation                                                      | Example(d4-d6-d8)                                                                |
 | --- | ---------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 1   |                  |                                                                  |                                                                                  |
-| 2   | (none)           |                                                                  |                                                                                  |
-| 3   |                  |                                                                  |                                                                                  |
-| 4   |                  |                                                                  |                                                                                  |
+| 2   | Photophobia      |                                                                  |                                                                                  |
+| 3   | Claustrophobia   | Fear of closed spaces.                                           | Crowded city, Prison cell, Narrow gap in  dungeon                                |
+| 4   | Xylophobia       | Fear of forests.                                                 | Magical plants, Passing through forests, Powerful forest deities                 |
 | 5   | Hypsophobia      | Fear of heights.                                                 | Giants, Passing through mountains, Dragons/flying at high altitude               |
 | 6   | Agoraphobia      | Fear of not being able to hide(open spaces, travelling, chases). | Passing through valley, Travel in ocean, Being chased by Drow                    |
 | 7   | Entomophobia     | Fear of insects and arachnids.                                   | Red ant, Giant spider, Scorpion priest                                           |
