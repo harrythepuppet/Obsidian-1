@@ -13,7 +13,7 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 | 7   |                                |                                     |                                                |
 | 8   |                                |                                     |                                                |
 | 9   |                                |                                     |                                                |
-| 10  |                                |                                     |                                                |
+| 10  | Phasmophobia                   | Fear of ghosts and ghastly figures. | Ghosts,                                        |
 | 11  | Zoophobia                      | Fear of animals and beasts.         | Wolf, Bear, Owlbear                            |
 | 12  | Teratophobia                   | Fear of monsters and malformations. | Hobgoblins, orks, mutated beasts               |
 | 13  | Panophobia                     | Fear  of Everything                 | All effects combined, can be gifted as a curse |
