@@ -12,7 +12,7 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 | 6   |                                |                                          |                                                |
 | 7   |                                |                                          |                                                |
 | 8   |                                |                                          |                                                |
-| 9   | Necrophobia                    | Fear of the undead.                      | Skeleton, Ghoul,                               |
+| 9   | Necrophobia                    | Fear of the undead.                      | Skeleton, Ghoul, Lich                          |
 | 10  | Phasmophobia                   | Fear of ghosts and otherworldly figures. | Ghosts, Familiars, Angels                      |
 | 11  | Zoophobia                      | Fear of animals and beasts.              | Wolf, Bear, Owlbear                            |
 | 12  | Teratophobia                   | Fear of monsters and malformations.      | Hobgoblins, orks, mutated beasts               |
