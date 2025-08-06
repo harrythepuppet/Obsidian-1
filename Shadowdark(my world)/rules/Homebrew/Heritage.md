@@ -10,3 +10,4 @@ Any item from [[stash]](if corpse is lost in dungeon) or stash\inventory(if play
 +
 
 +
+Benefits from Keep
