@@ -10,7 +10,7 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 | 4   | **4400×2600**                  |                                                     |                                                                                  |
 | 5   | 1600x945=>3200x1890            |                                                     |                                                                                  |
 | 6   |                                |                                                     |                                                                                  |
-| 7   | Entomophobia                   | Fear of spiders and other arachnids                 |                                                                                  |
+| 7   | Entomophobia                   | Fear of insects and arachnids                       |                                                                                  |
 | 8   | Automatonophobia               | Fear of humanoids that look like you but not quite. | Fear of other races and humanoids:<br>Other race,  Enemy  humanoid, Living armor |
 | 9   | Necrophobia                    | Fear of the undead.                                 | Skeleton, Ghoul, Lich                                                            |
 | 10  | Phasmophobia                   | Fear of ghosts and otherworldly figures.            | Ghosts, Familiars, Angels                                                        |
