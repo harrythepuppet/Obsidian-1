@@ -4,8 +4,8 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 
 | D12 | Phobia           | Explanation                                                      | Example(d4-d6-d8)                                                                |
 | --- | ---------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1   |                  |                                                                  |                                                                                  |
-| 2   | Photophobia      |                                                                  |                                                                                  |
+| 1   | Nyctophobia      | Fear of darkness.                                                | Nighttime outdoor, Blindfold, Pitch-black dungeon.                               |
+| 2   | Photophobia      | Discomfort of light.                                             | Burned torch, Solar zenith & no shade, Magic lightning                           |
 | 3   | Claustrophobia   | Fear of closed spaces.                                           | Crowded city, Prison cell, Narrow gap in  dungeon                                |
 | 4   | Xylophobia       | Fear of forests.                                                 | Magical plants, Passing through forests, Powerful forest deities                 |
 | 5   | Hypsophobia      | Fear of heights.                                                 | Giants, Passing through mountains, Dragons/flying at high altitude               |
@@ -17,3 +17,5 @@ Phobias are needed to attach Shadowed Minds mechanic to any game
 | 11  | Zoophobia        | Fear of animals and beasts.                                      | Wolf, Bear, Owlbear                                                              |
 | 12  | Teratophobia     | Fear of monsters and malformations.                              | Hobgoblins, orks, mutated beasts                                                 |
 | 13  | Panophobia       | Fear  of Everything                                              | All effects combined, can be gifted as a curse                                   |
+
+Fear check can be triggered 
