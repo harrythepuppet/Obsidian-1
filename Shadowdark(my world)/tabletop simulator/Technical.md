@@ -7,7 +7,7 @@
 | One World Table          | 1600x945=>3200x1890            |
 Grid Size 2 - 26x44 grids - півкілома площа
 Grid size 1 - 52x88
-
+One World Grid160x94
 ### Generate Dungeons
 https://watabou.itch.io/one-page-dungeon
 
