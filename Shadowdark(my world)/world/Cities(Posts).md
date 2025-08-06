@@ -7,7 +7,7 @@ Village (2 districts, can be destroyed by threat of Risky danger level)
 
 Town (3 districts, must have a tavern)
 
-City\Post(4 districts, must have a tavern)
+City\Post(4 districts, must have a tavern and castle walls)
 ### All Districts
 
 #### Tavern
