@@ -7,3 +7,5 @@ My own adventures:
 
 ### Crowfolk resurrection (7-8)
 Скоріше за все тут сам нічого писати не буду, підтягну історію про ліча
+
+# Connected quests
