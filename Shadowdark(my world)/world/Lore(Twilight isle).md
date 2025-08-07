@@ -1,4 +1,5 @@
-
+Races(playable):
+Human, Elf, 
 
 [[Cosmology Twilight isle]]
 
