@@ -1,5 +1,5 @@
 Races(playable):
-Human, Elf, 
+Half-Orc, Elf, Human, Dwarf, Halfling
 
 [[Cosmology Twilight isle]]
 
