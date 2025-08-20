@@ -25,3 +25,5 @@ Market to sell and buy artifacts, not restrained by any plot
 #### Training grounds
 Place where characters could learn a skill
 
+### Міста в Твайлайті
+1) Кільд - Нескорене місто
