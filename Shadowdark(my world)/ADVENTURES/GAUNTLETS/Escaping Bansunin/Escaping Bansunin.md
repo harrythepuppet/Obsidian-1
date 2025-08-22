@@ -44,6 +44,12 @@
 
 камінь розколиться на крошку з камінчиків, які можна їсти як антидот від отрут і кидати в озера отрути і кислоти для нейтралізації їхніх ефектів
 
+Treasure. Bodies have a rusty 
+sword, soiled leather sack, & shield. 
+Some empty bottles are strewn 
+about with plants and mold growing 
+inside.
+
 4 - ложе Кі, сама Кі може спуститись по велінню дайса d4,
 Ki потрібно знайти її іграшку - плючевого павучка Кіко, 
 
