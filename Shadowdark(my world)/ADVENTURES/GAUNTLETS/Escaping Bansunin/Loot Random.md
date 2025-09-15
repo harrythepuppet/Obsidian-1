@@ -1,9 +1,7 @@
 Трупи D12
-1-4 weapon from expanded equipment
-5
-6
-7
-8 Свиток телепортації, перенесе в лабораторію Ша
+1-3 weapon from expanded equipment
+4Свиток телепортації, перенесе в лабораторію Ша
+5-8 basic gear
 9 паличка 1го рівня
 10-11 шолом
 12 gem from expanded equipment
