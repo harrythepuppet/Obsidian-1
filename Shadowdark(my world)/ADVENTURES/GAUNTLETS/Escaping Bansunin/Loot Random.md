@@ -4,7 +4,7 @@
 6
 7
 8
-9
+9 паличка 1го рівня
 10-11 armor from expanded equipment
 12 gem from expanded equipment
 
