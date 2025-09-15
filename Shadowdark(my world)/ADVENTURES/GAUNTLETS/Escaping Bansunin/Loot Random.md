@@ -5,7 +5,7 @@
 7
 8
 9 паличка 1го рівня
-10-11 armor from expanded equipment
+10-11 шолом
 12 gem from expanded equipment
 
 Книжки D8
