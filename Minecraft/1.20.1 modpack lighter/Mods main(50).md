@@ -16,10 +16,11 @@ Mechanics(15+-)
 			2) HTs TreeChop
 			3) Serene Seasons(GlitchCore)
 			4) Farme's Delight
-			5) Thermal Tweaks
+			5) 
 		2) Transportation
 			1) Ice BoatNerf Reforged
 		3) Progression
 			1) 
 		4) Combat
 			1) Better Combat(Cloth Config, Player Animation)
+			2) Spear
