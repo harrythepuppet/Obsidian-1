@@ -9,7 +9,7 @@
 	8) ImmediatelyFast
 	9) Fastload
 	10) Fast Async World Save(Cupboard)
-	11) 
+	11) Better Fps - Render Distance
 2) Graphics
 	1) Oculus
 	2) Particle Rain
