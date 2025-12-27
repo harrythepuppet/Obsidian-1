@@ -14,6 +14,7 @@ Mechanics(15+-)
 			1) Immersive Weathering
 			2) HTs TreeChop
 			3) Serene Seasons(GlitchCore)
+			4) Farme's Delight
 		2) Transportation
 			1) Ice BoatNerf Reforged
 		3) Progression
