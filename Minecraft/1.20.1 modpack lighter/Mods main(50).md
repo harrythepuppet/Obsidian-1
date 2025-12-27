@@ -5,6 +5,7 @@ Worldgen(20)
 		3)Shattered World Limits
 		4)Continents
 		5)Spelunkery(MoonlightLib)
+		6)Hybrid Aquatic(Lithostitched, Kotlin)
 	Nether(5)
 		
 	End(5)
