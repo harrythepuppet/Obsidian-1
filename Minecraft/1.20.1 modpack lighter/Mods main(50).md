@@ -4,7 +4,7 @@ Worldgen(20)
 		2)Naturalist(GeckoLib)
 		3)Shattered World Limits
 		4)Continents
-		5)Spelunkery
+		5)Spelunkery(MoonlightLib)
 	Nether(5)
 		
 	End(5)
