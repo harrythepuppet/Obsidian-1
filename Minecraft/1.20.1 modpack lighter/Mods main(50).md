@@ -16,7 +16,7 @@ Mechanics(15+-)
 			2) HTs TreeChop
 			3) Serene Seasons(GlitchCore)
 			4) Farmer's Delight
-			5) 
+			5) Thermite(Complete Config) (SINYTRA)
 		2) Transportation
 			1) Ice BoatNerf Reforged
 		3) Progression
