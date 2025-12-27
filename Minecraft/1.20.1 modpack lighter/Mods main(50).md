@@ -13,5 +13,6 @@ Mechanics(15+-)
 		1) Survival
 			1) Immersive Weathering
 			2) HTs TreeChop
-		Transportation
-		Progression
+			3) Serene Seasons(GlitchCore)
+		2) Transportation
+		3) Progression
