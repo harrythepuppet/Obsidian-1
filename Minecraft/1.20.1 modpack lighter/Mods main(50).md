@@ -1,4 +1,3 @@
-
 Worldgen(20)
 	Overworld(10)
 		
@@ -7,3 +6,6 @@ Worldgen(20)
 	End(5)
 		
 Mechanics(15+-)
+		Survival
+		Transportation
+		Progression
