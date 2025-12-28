@@ -22,5 +22,4 @@ Mechanics(15+-)
 		3) Progression
 			1) 
 		4) Combat
-			1) Better Combat(Cloth Config, Player Animation)
-			2) Spear Backport
+			1) Spear Backport
