@@ -7,13 +7,12 @@ Worldgen(20)
 		4)Continents 
 		5)Spelunkery(MoonlightLib)
 		6)Rainbow Reef
-		
+		7)Dungeons and Taverns(or yung, need tests)
 	Nether(5)
 		
 	End(5)
 		
 Mechanics(15+-)
-<<<<<<< HEAD
 		1) Survival
 			1) Immersive Weathering
 			2) HTs TreeChop
@@ -26,4 +25,3 @@ Mechanics(15+-)
 			1) 
 		4) Combat
 			1) Spear Backport
-	origin/main
