@@ -8,6 +8,7 @@ Worldgen(20)
 		5)Spelunkery(MoonlightLib)
 		6)Rainbow Reef
 		7)Dungeons and Taverns(or yung, need tests)
+		8)Darker Depths
 	Nether(5)
 		
 	End(5)
