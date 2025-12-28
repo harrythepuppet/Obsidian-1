@@ -4,7 +4,7 @@ maybe add:
 Serene Seasons Plus
 Farmers Delight Natures compat
 Immersive Weathering
-Darker Depths
+x-mountains
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
