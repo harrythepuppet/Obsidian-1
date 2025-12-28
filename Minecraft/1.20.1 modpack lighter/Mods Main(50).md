@@ -6,6 +6,7 @@ Worldgen(20)
 		3)Shattered World Limits 
 		4)Continents 
 		5)Spelunkery(MoonlightLib)
+		6)Rainbow Reef
 		
 	Nether(5)
 		
