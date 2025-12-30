@@ -12,12 +12,12 @@
 		9)Geophilic
 		10)Deeper Oceans
 	2) Nether(5)
-		1) 
-	3) End(5)
+		1) Amplified Nether
+		2) 
+	3) End(3)
 		1) Endercon
-		2) # Endless of Heart
-		3) The Outer End (Blueprint mod, lol)
-		4) The Endergetic Expansion
+		2) The Outer End (Blueprint mod, lol)
+		3) The Endergetic Expansion
 2) Mechanics(15+-)
 	1) Survival
 		1) Immersive Weathering
