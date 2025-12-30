@@ -29,7 +29,7 @@
 	2) Transportation
 		1) Ice BoatNerf Reforged
 	3) Progression
-		1) 
+		1) End Reborn(new equipment + END DIMENSION update)
 	4) Combat
 		1) Spear Backport
 	5) Redstone
