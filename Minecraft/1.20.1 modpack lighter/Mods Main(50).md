@@ -15,7 +15,7 @@
 		1) 
 	3) End(5)
 		1) Endercon
-		2) End's Phantasm
+		2) # Endless of Heart
 		3) The Outer End (Blueprint mod, lol)
 		4) The Endergetic Expansion
 2) Mechanics(15+-)
