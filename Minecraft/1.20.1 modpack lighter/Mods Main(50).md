@@ -25,7 +25,7 @@
 		4) Farmer's Delight
 		5) Thermite(Complete Config) (SINYTRA)
 		6) Thirst Was Taken
-		7) Spice Of Life: Carrot
+		7) Spice Of Life: Classic
 	2) Transportation
 		1) Ice BoatNerf Reforged
 	3) Progression
