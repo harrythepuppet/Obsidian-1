@@ -20,6 +20,7 @@ Mechanics(15+-)
 			3) Serene Seasons(GlitchCore)
 			4) Farmer's Delight
 			5) Thermite(Complete Config) (SINYTRA)
+			6) Thirst Was Taken
 		2) Transportation
 			1) Ice BoatNerf Reforged
 		3) Progression
