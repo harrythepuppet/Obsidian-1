@@ -9,6 +9,7 @@ Worldgen(20)
 		6)Rainbow Reef
 		7)Dungeons and Taverns(or yung, need tests)
 		8)Darker Depths
+		9)Geophilic
 	Nether(5)
 		
 	End(5)
