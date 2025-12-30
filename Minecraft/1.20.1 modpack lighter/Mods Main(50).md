@@ -16,7 +16,7 @@
 	3) End(5)
 		1) Endercon
 		2) End's Phantasm
-		3) 
+		3) Enlightend
 2) Mechanics(15+-)
 	1) Survival
 		1) Immersive Weathering
@@ -29,7 +29,7 @@
 	2) Transportation
 		1) Ice BoatNerf Reforged
 	3) Progression
-		1) End Reborn(new equipment + END DIMENSION update)
+		1) 
 	4) Combat
 		1) Spear Backport
 	5) Redstone
