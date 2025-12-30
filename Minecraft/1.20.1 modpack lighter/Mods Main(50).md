@@ -11,7 +11,7 @@
 		8) Darker Depths
 		9) Geophilic
 		10) Deeper Oceans
-		11) It Takes a Pillage Continuation?
+		11) It Takes a Pillage Continuation?(YetAnotherConfigLib, Resourceful Lib)
 	2) Nether(5)
 		1) Amplified Nether
 		2) Nether Depth Update
