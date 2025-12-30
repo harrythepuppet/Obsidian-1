@@ -13,7 +13,8 @@
 		10)Deeper Oceans
 	2) Nether(5)
 		1) Amplified Nether
-		2) 
+		2) Nether Depth Update
+		3) 
 	3) End(3)
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
