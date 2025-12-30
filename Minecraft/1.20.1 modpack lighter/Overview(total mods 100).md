@@ -10,3 +10,6 @@ SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 Have to think of adding mods from team abnormals
 Cavers chasms cool mod but needs a lot of work
 https://youtu.be/aHq1EiS-N1I
+
+Upgrade Aquatic ну такоє
+https://www.youtube.com/watch?v=CQC6uKRjTKU
