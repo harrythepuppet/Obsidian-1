@@ -10,10 +10,9 @@
 	9) Fastload
 	10) Fast Async World Save(Cupboard)
 	11) Better Fps - Render Distance
-	12) Concurrent Chunk Management Engine for Forge (C2MEF) (READ OVERVIEW)
-	13) Alternate Current
-	14) Server Performance - Smooth Chunk
-	15) Chunk Sending
+	12) Alternate Current
+	13) Server Performance - Smooth Chunk
+	14) Chunk Sending
 2) Graphics+sounds
 	1) Oculus
 	2) Particle Rain
