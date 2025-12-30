@@ -19,3 +19,4 @@
 3)  Tech
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
+	3) PAXI(YUNGSLib)
