@@ -16,7 +16,8 @@
 	3) End(5)
 		1) Endercon
 		2) End's Phantasm
-		3) Enlightend
+		3) The Outer End (Blueprint mod, lol)
+		4) The Endergetic Expansion
 2) Mechanics(15+-)
 	1) Survival
 		1) Immersive Weathering
