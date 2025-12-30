@@ -11,12 +11,12 @@
 		8) Darker Depths
 		9) Geophilic
 		10) Deeper Oceans
-		11) It Takes a Pillage Continuation?(YetAnotherConfigLib, Resourceful Lib)
+		11) It Takes a Pillage
 	2) Nether(5)
 		1) Amplified Nether
 		2) Nether Depth Update
-		3) Pyrellium?
-		4) 
+		3) Pyrellium
+		4) Luminous: Nether
 	3) End(3)
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
