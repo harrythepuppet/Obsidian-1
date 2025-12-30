@@ -12,6 +12,8 @@
 	11) Better Fps - Render Distance
 	12) Concurrent Chunk Management Engine for Forge (C2MEF) (READ OVERVIEW)
 	13) Alternate Current
+	14) Server Performance - Smooth Chunk
+	15) Chunk Sending
 2) Graphics+sounds
 	1) Oculus
 	2) Particle Rain
