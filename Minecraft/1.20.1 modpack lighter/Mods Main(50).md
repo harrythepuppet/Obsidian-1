@@ -10,6 +10,7 @@ Worldgen(20)
 		7)Dungeons and Taverns(or yung, need tests)
 		8)Darker Depths
 		9)Geophilic
+		10)Deeper Oceans
 	Nether(5)
 		
 	End(5)
