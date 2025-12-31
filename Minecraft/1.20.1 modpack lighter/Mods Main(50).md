@@ -12,8 +12,9 @@
 		9) Geophilic
 		10) Deeper Oceans
 		11) It Takes a Pillage
+		12) YUNG(Dungeons, Nether Fortresses, Ocean Monuments, Jungle, witch, )
 	2) Nether(5)
-		1) Amplified Nether
+		1) Amplified Nether/Nightosphere
 		2) Nether Depth Update
 		3) Pyrellium
 		4) Luminous: Nether (Nyllium doesent spawn)
