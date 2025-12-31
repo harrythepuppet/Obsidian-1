@@ -35,8 +35,9 @@
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
 		3) Pet Whistle
-		4) 
-		5) Do a barrel roll
+		4) Horseshoes
+		5) Horseman
+		6) Do a barrel roll
 	3) Progression
 		1) 
 	4) Combat
