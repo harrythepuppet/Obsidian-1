@@ -16,7 +16,7 @@
 		1) Amplified Nether
 		2) Nether Depth Update
 		3) Pyrellium
-		4) Luminous: Nether
+		4) Luminous: Nether (Nyllium doesent spawn)
 	3) End(3)
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
