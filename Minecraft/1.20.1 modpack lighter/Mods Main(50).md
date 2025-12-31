@@ -22,7 +22,7 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics(15+-)
+2) Mechanics(20+-)
 	1) Survival
 		1) Immersive Weathering
 		2) HTs TreeChop
@@ -40,3 +40,4 @@
 	5) Redstone
 		1) Re-Locate
 		2) Unflavoured pipes
+	6) 
