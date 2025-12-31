@@ -1,5 +1,5 @@
 
-1) Worldgen(20)
+1) Worldgen(19)(max20)
 	1) Overworld(10)
 		1) Natures Spirit(Terrablender) 
 		2) Naturalist(GeckoLib) 
