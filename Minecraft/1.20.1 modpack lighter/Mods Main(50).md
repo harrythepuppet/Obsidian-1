@@ -43,4 +43,6 @@
 		1) Re-Locate
 		2) Unflavoured pipes
 	6) Building
-		1) 
+		1) v
+	7) Inventory management
+		1) yyz's backpack
