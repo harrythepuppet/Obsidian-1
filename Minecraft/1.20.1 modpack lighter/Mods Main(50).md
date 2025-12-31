@@ -12,7 +12,7 @@
 		9) Geophilic
 		10) Deeper Oceans
 		11) It Takes a Pillage
-		12) YUNG(Dungeons, Nether Fortresses, Ocean Monuments, Jungle, witch, )
+		12) YUNG(Dungeons, Nether Fortresses, Ocean Monuments, Jungle, witch, desert temples, bridges, extras)
 	2) Nether(5)
 		1) Amplified Nether/Nightosphere
 		2) Nether Depth Update
