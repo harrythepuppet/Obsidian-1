@@ -43,9 +43,10 @@
 		6) Do a barrel roll
 		7) Firework cooldown
 		8) Elytra Aeronautics
+		9) 
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
-		2) 
+		2) End Remastered
 	4) Combat
 		1) Spear Backport
 	5) Redstone
@@ -55,3 +56,5 @@
 		1) v
 	7) Inventory management
 		1) yyz's backpack
+	8) Rebalance
+		1) 
