@@ -53,8 +53,9 @@
 		1) Re-Locate
 		2) Unflavoured pipes
 	6) Building
-		1) v
+		1) Additional Placements
+		2) Amendments
 	7) Inventory management
 		1) yyz's backpack
 	8) Rebalance
-		1) 
+		1) TotemCooldown
