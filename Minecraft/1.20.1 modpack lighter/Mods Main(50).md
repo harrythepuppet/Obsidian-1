@@ -25,7 +25,7 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics(20+-)
+2) Mechanics()(20+-)
 	1) Survival
 		1) Immersive Weathering
 		2) HTs TreeChop
@@ -55,7 +55,12 @@
 	6) Building
 		1) Additional Placements
 		2) Amendments
+		3) Valhelsia Furniture(ValhelsiaCore)
+		4) Wood Good
+		5) Sawmill
 	7) Inventory management
 		1) yyz's backpack
 	8) Rebalance
 		1) TotemCooldown
+3) Additional mods(can live without them)(?)
+	1) 
