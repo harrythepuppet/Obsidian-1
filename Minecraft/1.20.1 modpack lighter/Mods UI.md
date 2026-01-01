@@ -4,4 +4,5 @@
 	1) JEI
 3) QOL
 	1) Mouse Tweaks
-	2) Auto Elytra
+	2) ~~Auto Elytra~~
+	3) 
