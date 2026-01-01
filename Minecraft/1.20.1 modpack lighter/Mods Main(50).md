@@ -1,5 +1,5 @@
 
-1) Worldgen(19)(max20)
+1) Worldgen(22)(max20)
 	1) Overworld(10)
 		1) Natures Spirit(Terrablender) 
 		2) Naturalist(GeckoLib) 
@@ -14,7 +14,7 @@
 		11) It Takes a Pillage
 		12) YUNG(Dungeons, Nether Fortresses, Ocean Monuments, Jungle, witch, desert temples, bridges, extras)
 	2) Nether(7)
-		1) Amplified Nether/Nightosphere
+		1) Nightosphere(INSTEAD OF Amplified Nether)
 		2) Nether Depth Update
 		3) Gardens of the dead
 		4) Luminous: Nether
