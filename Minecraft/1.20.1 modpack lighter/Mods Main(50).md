@@ -16,7 +16,7 @@
 	2) Nether(5)
 		1) Amplified Nether/Nightosphere
 		2) Nether Depth Update
-		3) Pyrellium
+		3) Gardens of the dead
 		4) Luminous: Nether (Nyllium doesent spawn)
 	3) End(3)
 		1) Endercon
