@@ -17,8 +17,11 @@
 		1) Amplified Nether/Nightosphere
 		2) Nether Depth Update
 		3) Gardens of the dead
-		4) Luminous: Nether (Nyllium doesent spawn)
-	3) End(3)
+		4) Luminous: Nether
+		5) Nether Weather
+		6) Nears
+		7) 
+	3) End(3)(max 5)
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
