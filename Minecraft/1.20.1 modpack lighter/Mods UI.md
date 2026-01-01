@@ -1,6 +1,6 @@
 1) GUI
 	1) AppleSkin
-	2) Elytra Durability indicator
+	2) Elytra Durability indicator-
 2) UX
 	1) JEI
 3) QOL

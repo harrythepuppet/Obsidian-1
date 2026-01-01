@@ -42,7 +42,7 @@
 		5) Horseman
 		6) Do a barrel roll
 		7) Firework cooldown
-		8) Elytra Aeronautics
+		8) Elytra Aeronautics-
 		9) 
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
@@ -53,11 +53,11 @@
 		1) Re-Locate
 		2) Unflavoured pipes
 	6) Building
-		1) Additional Placements
-		2) Amendments
-		3) Valhelsia Furniture(ValhelsiaCore)
-		4) Wood Good
-		5) Sawmill
+		1) Additional Placements-
+		2) Amendments-
+		3) Valhelsia Furniture(ValhelsiaCore)-
+		4) Wood Good-
+		5) Sawmill-
 	7) Inventory management
 		1) yyz's backpack
 	8) Rebalance
