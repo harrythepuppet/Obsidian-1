@@ -13,14 +13,14 @@
 		10) Deeper Oceans
 		11) It Takes a Pillage
 		12) YUNG(Dungeons, Nether Fortresses, Ocean Monuments, Jungle, witch, desert temples, bridges, extras)
-	2) Nether(5)
+	2) Nether(7)
 		1) Amplified Nether/Nightosphere
 		2) Nether Depth Update
 		3) Gardens of the dead
 		4) Luminous: Nether
 		5) Nether Weather
 		6) Nears
-		7) 
+		7) My Nether's Delight
 	3) End(3)(max 5)
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
@@ -41,8 +41,9 @@
 		4) Horseshoes
 		5) Horseman
 		6) Do a barrel roll
+		7) Firework cooldown
 	3) Progression
-		1) 
+		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 	4) Combat
 		1) Spear Backport
 	5) Redstone
