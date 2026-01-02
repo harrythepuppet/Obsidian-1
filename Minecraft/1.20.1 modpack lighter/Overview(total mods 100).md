@@ -16,6 +16,8 @@ Farmers Delight Natures compat
 Farmers Respite
 Enemy Expansion
 Snowy Sniffer
+Snowy biomes: Enhanced
+Snow under trees
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
