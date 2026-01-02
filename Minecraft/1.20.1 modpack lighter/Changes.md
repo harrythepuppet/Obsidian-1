@@ -16,6 +16,7 @@ inmis:
 		  "trinketRendering": true, s
 
 environmentZ:
+	Config:
 	// Increase for less harsh environments
 	"temperatureCalculationTime": 5, (default 20)
 	// Try find an easy world spawn point
@@ -39,8 +40,15 @@ environmentZ:
 	"blurScreenEffect": true
 
 Particular reforged:
-	Enable firefly particles
-	fireflies = false
-	Enable water drip ripples
-	waterDripRipples = false
+	config:
+		Enable firefly particles
+		fireflies = false
+		Enable water drip ripples
+		waterDripRipples = false
 
+Visuality reforged:
+	config:
+		Water Circles Enabled
+		enabled = false
+		Water Circles Colored
+		colored = false
