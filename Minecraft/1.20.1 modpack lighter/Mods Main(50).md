@@ -70,7 +70,9 @@
 		3) Potion Cauldron
 		4) Forbidden Potions
 		5) Spelunker
-	9) Rebalance(3)+
+	9) Enchanting
+		1) 
+	10) Rebalance(3)+
 		1) TotemCooldown
 		2) Customized Tridents
 		3) Better Impaling
