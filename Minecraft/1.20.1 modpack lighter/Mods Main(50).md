@@ -26,7 +26,7 @@
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
 2) Mechanics(28!)(20+-)
-	1) Survival(7)+
+	1) Survival(8)+
 		1) Immersive Weathering
 		2) HTs TreeChop
 		3) Serene Seasons(GlitchCore)
@@ -35,7 +35,7 @@
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
 		8) KilnReborn
-	2) Transportation(9)+
+	2) Transportation(10)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
 		3) Pet Whistle
@@ -45,7 +45,7 @@
 		7) Firework cooldown
 		8) Boat Load
 		9) Horse Stonks
-		10) 
+		10) Sit's End Teleport Anchor
 	3) Progression(2)
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
