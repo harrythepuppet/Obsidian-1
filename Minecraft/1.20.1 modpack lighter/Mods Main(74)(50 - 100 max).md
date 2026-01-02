@@ -25,7 +25,7 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics(28!)(20+-)
+2) Mechanics(52!)(30+-)
 	1) Survival(8)+
 		1) Immersive Weathering
 		2) HTs TreeChop
@@ -35,7 +35,7 @@
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
 		8) KilnReborn
-	2) Transportation(10)+
+	2) Transportation(11)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
 		3) Pet Whistle

@@ -1,4 +1,4 @@
-1) Perfomance
+1) Perfomance(14)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -14,9 +14,11 @@
 	13) Server Performance - Smooth Chunk
 	14) Chunk Sending
 2) Graphics+sounds
-	1) Oculus
-	2) Particle Rain
-	3) The Sound of Rain
+	1) Graphics
+		1) Oculus
+		2) Particle Rain
+	2) Sounds
+		1) The Sound of Rain
 3)  Tech
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
