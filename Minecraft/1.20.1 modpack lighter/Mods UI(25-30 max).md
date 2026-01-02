@@ -4,9 +4,13 @@
 	3) Horse Stats Vanilla
 	4) Dynamic Crosshair
 	5) ImmersiveUI(OcloLib)
+	6) Satisfying buttons
+	7) 
 2) UX
 	1) JEI
 	2) Sound controller
+	3) Camera overhaul reforged
+	4) 
 3) QOL
 	1) Mouse Tweaks
 	2) ~~Auto Elytra~~

@@ -17,8 +17,8 @@
 	16) Dynamic FPS
 	17) Connectored C2ME(!!!!)
 	18) Noisium(!!!!)
-2) Graphics+sounds
-	1) Graphics
+2) Graphics+sounds(16)
+	1) Graphics(12)
 		1) Oculus
 		2) Particle Rain
 		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
@@ -30,6 +30,7 @@
 		9) Immersive winds
 		10) Immersive Snow
 		11) Snow! Real magic
+		12) Rainbows!(?)
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
