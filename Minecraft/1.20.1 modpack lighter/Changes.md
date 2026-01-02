@@ -38,3 +38,9 @@ environmentZ:
 	"exhaustionInsteadDehydration": true, (default false)
 	"blurScreenEffect": true
 
+Particular reforged:
+	Enable firefly particles
+	fireflies = false
+	Enable water drip ripples
+	waterDripRipples = false
+
