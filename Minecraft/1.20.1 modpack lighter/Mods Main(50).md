@@ -72,5 +72,7 @@
 		5) Spelunker
 	9) Rebalance(1)+
 		1) TotemCooldown
+		2) Customized Tridents
+		3) Better Impaling
 3) Additional mods(can live without them)(?)
 	1) 
