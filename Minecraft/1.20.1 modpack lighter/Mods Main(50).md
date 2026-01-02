@@ -26,7 +26,7 @@
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
 2) Mechanics()(20+-)
-	1) Survival
+	1) Survival(7)+
 		1) Immersive Weathering
 		2) HTs TreeChop
 		3) Serene Seasons(GlitchCore)
@@ -34,7 +34,7 @@
 		5) Thermite(Complete Config) (SINYTRA)
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
-	2) Transportation
+	2) Transportation(8)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
 		3) Pet Whistle
@@ -42,25 +42,29 @@
 		5) Horseman
 		6) Do a barrel roll
 		7) Firework cooldown
+		8) Boat Load
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
 	4) Combat
 		1) Spear Backport
-	5) Redstone
+	5) Redstone+
 		1) Re-Locate
 		2) Unflavoured pipes
-	6) Building
+	6) Building+
 		1) Additional Placements
 		2) Amendments
 		3) Valhelsia Furniture(ValhelsiaCore)
-		4) Wood Good
-		5) Sawmill
+		4) Every Compat (Wood Good)
+		5) Every Compat (Stone Zone)
+		6) Sawmill
 	7) Inventory management
 		1) inmis(inmis addon)
 		2) Bundle Craft Plus
 		3) Nether Chested(PuzzlesAPI)
-	8) Rebalance
+	8) Alchemy
+		1) 
+	9) Rebalance
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
 	1) 
