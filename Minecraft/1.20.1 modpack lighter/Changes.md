@@ -37,3 +37,4 @@ environmentZ:
 	// Undo dehydration mod compat
 	"exhaustionInsteadDehydration": true, (default false)
 	"blurScreenEffect": true
+
