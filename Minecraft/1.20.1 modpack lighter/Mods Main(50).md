@@ -47,10 +47,9 @@
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
-	4) Combat
+	4) Combat(2)+
 		1) Spear Backport
-		2) Projectiles
-		3) 
+		2) Fabulous Fletching
 	5) Redstone(2)+
 		1) Re-Locate
 		2) Unflavoured pipes
@@ -71,7 +70,7 @@
 		3) Potion Cauldron
 		4) Forbidden Potions
 		5) Spelunker
-	9) Rebalance(1)+
+	9) Rebalance(3)+
 		1) TotemCooldown
 		2) Customized Tridents
 		3) Better Impaling
