@@ -34,7 +34,7 @@
 		5) Thermite(Complete Config) (SINYTRA)
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
-		8) KilnReborn!
+		8) KilnReborn
 	2) Transportation(9)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
@@ -48,9 +48,10 @@
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
-	4) Combat(2)+
+	4) Combat(3)+
 		1) Spear Backport
 		2) Fabulous Fletching
+		3) Guard Villagers
 	5) Redstone(2)+
 		1) Re-Locate
 		2) Unflavoured pipes
@@ -74,8 +75,8 @@
 	9) Enchanting(4)+
 		1) Immersive Enchanting
 		2) Majrusz's enchantments(majruzs library)!
-		3) Allurement!
-		4) Air Hop!
+		3) Allurement
+		4) Air Hop
 	10) Rebalance(3)+
 		1) TotemCooldown
 		2) Customized Tridents
