@@ -34,6 +34,7 @@
 		5) Thermite(Complete Config) (SINYTRA)
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
+		8) KilnReborn!
 	2) Transportation(9)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
@@ -72,8 +73,8 @@
 		5) Spelunker
 	9) Enchanting(3)+
 		1) Immersive Enchanting
-		2) Majrusz's enchantments(majruzs library)
-		3) Allurement
+		2) Majrusz's enchantments(majruzs library)!
+		3) Allurement!
 		4) 
 	10) Rebalance(3)+
 		1) TotemCooldown
