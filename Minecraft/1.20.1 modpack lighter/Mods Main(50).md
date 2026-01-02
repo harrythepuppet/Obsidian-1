@@ -43,7 +43,6 @@
 		6) Do a barrel roll
 		7) Firework cooldown
 		8) ~~Elytra Aeronautics-~~
-		9) 
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
@@ -59,7 +58,8 @@
 		4) Wood Good
 		5) Sawmill
 	7) Inventory management
-		1) yyz's backpack
+		1) inmis(inmis addon)
+		2) 
 	8) Rebalance
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
