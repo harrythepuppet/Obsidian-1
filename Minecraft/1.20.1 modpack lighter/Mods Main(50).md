@@ -59,13 +59,13 @@
 		4) Every Compat (Wood Good)
 		5) Every Compat (Stone Zone)
 		6) Sawmill
-	7) Inventory management
+	7) Inventory management(3)+
 		1) inmis(inmis addon)
 		2) Bundle Craft Plus
 		3) Nether Chested(PuzzlesAPI)
 	8) Alchemy
 		1) 
-	9) Rebalance
+	9) Rebalance(1)+
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
 	1) 
