@@ -15,7 +15,7 @@ Serene Seasons Plus
 Farmers Delight Natures compat
 Farmers Respite
 Enemy Expansion
-
+Snowy Sniffer
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 

@@ -28,6 +28,8 @@
 		7) Particular Reforged
 		8) Visuality Reforged(?)
 		9) Immersive winds
+		10) Immersive Snow
+		11) Snow! Real magic
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
