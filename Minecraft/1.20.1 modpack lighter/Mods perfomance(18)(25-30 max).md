@@ -25,7 +25,8 @@
 		4) Explosive Enhancements
 		5) Coastal Waves
 		6) Wakes
-		7) 
+		7) Particular Reforged
+		8) 
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
