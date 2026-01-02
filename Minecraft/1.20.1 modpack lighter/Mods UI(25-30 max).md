@@ -2,6 +2,7 @@
 	1) AppleSkin
 	2) Elytra Durability indicator
 	3) Horse Stats Vanilla
+	4) Dynamic Crosshair
 2) UX
 	1) JEI
 3) QOL

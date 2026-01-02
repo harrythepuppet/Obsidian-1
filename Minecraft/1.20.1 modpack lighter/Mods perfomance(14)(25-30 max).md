@@ -22,6 +22,7 @@
 	2) Sounds
 		1) Atmosfera
 		2) The Sound of Rain
+		3) Euphonium
 3)  Tech
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
