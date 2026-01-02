@@ -17,6 +17,7 @@
 	16) Dynamic FPS
 	17) Connectored C2ME(!!!!)
 	18) Noisium(!!!!)
+	19) Smooth Boot
 2) Graphics+sounds(16)
 	1) Graphics(12)
 		1) Oculus

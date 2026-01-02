@@ -5,7 +5,9 @@
 	4) Dynamic Crosshair
 	5) ImmersiveUI(OcloLib)
 	6) Satisfying buttons
-	7) 
+	7) Smooth scrolling
+	8) Smooth Swapping
+	9) Smooth Gui
 2) UX
 	1) JEI
 	2) Sound controller
