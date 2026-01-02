@@ -42,7 +42,6 @@
 		5) Horseman
 		6) Do a barrel roll
 		7) Firework cooldown
-		8) ~~Elytra Aeronautics-~~
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
@@ -60,6 +59,7 @@
 	7) Inventory management
 		1) inmis(inmis addon)
 		2) Bundle Craft Plus
+		3) Nether Chested(PuzzlesAPI)
 	8) Rebalance
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
