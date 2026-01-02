@@ -19,7 +19,7 @@
 	18) Noisium(!!!!)
 	19) Smooth Boot
 2) Graphics+sounds(16)
-	1) Graphics(12)
+	1) Graphics(15)
 		1) Oculus
 		2) Particle Rain
 		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
@@ -33,7 +33,8 @@
 		11) Snow! Real magic
 		12) Rainbows!(?)
 		13) SodiumDynamicLightForge(SodiumSettingsAPI)
-		14) 
+		14) True Darkness Forge
+		15) Novum's Altitude
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
