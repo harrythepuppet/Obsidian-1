@@ -1,4 +1,4 @@
-1) Perfomance(14)
+1) Perfomance(16)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -20,7 +20,7 @@
 		1) Oculus
 		2) Particle Rain
 	2) Sounds
-		1) Atmosfera
+		1) MAtmos(TCT core)
 		2) The Sound of Rain
 		3) Euphonium
 3)  Tech
