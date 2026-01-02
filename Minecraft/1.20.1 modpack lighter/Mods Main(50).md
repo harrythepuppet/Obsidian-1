@@ -34,7 +34,7 @@
 		5) Thermite(Complete Config) (SINYTRA)
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
-	2) Transportation(8)+
+	2) Transportation(9)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
 		3) Pet Whistle
@@ -52,7 +52,7 @@
 	5) Redstone+
 		1) Re-Locate
 		2) Unflavoured pipes
-	6) Building+
+	6) Building(6)+
 		1) Additional Placements
 		2) Amendments
 		3) Valhelsia Furniture(ValhelsiaCore)
