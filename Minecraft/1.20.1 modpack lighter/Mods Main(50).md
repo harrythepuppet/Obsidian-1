@@ -43,6 +43,7 @@
 		6) Do a barrel roll
 		7) Firework cooldown
 		8) Boat Load
+		9) Horse Stonks
 	3) Progression
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
