@@ -59,7 +59,7 @@
 		5) Sawmill
 	7) Inventory management
 		1) inmis(inmis addon)
-		2) 
+		2) Bundle Craft Plus
 	8) Rebalance
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
