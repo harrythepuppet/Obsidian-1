@@ -32,6 +32,8 @@
 		10) Immersive Snow
 		11) Snow! Real magic
 		12) Rainbows!(?)
+		13) SodiumDynamicLightForge(SodiumSettingsAPI)
+		14) 
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
