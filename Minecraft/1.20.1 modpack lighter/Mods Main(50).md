@@ -71,11 +71,11 @@
 		3) Potion Cauldron
 		4) Forbidden Potions
 		5) Spelunker
-	9) Enchanting(3)+
+	9) Enchanting(4)+
 		1) Immersive Enchanting
 		2) Majrusz's enchantments(majruzs library)!
 		3) Allurement!
-		4) 
+		4) Air Hop!
 	10) Rebalance(3)+
 		1) TotemCooldown
 		2) Customized Tridents
