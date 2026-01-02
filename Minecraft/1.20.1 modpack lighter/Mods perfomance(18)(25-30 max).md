@@ -22,13 +22,16 @@
 		1) Oculus
 		2) Particle Rain
 		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
-		4) 
-	2) Sounds
+		4) Explosive Enhancements
+		5) Coastal Waves
+		6) Wakes
+		7) 
+	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
 		3) Presence footsteps
 		4) Sound physics perfected
-3)  Tech
+3)  Tech(3)
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
