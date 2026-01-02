@@ -2,6 +2,9 @@
 pyrellium conflicts with luminous nether
 Magma vision need Architectury API Fabric
 
+MUST DO
+enchantment costs(immersive enchantment)
+
 REMOVE
 have to remove inmis achievements and backpacks
 relocate silent blocks
