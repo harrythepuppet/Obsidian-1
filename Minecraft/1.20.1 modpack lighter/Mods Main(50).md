@@ -63,13 +63,12 @@
 		1) inmis(inmis addon)
 		2) Bundle Craft Plus
 		3) Nether Chested(PuzzlesAPI)
-	8) Alchemy(6)+
+	8) Alchemy(5)+
 		1) Recall Potion(Fabric)
 		2) Potion Blender
 		3) Potion Cauldron
 		4) Forbidden Potions
 		5) Spelunker
-		6) Magma vision
 	9) Rebalance(1)+
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)

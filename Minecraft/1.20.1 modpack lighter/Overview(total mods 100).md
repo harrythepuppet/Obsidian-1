@@ -1,5 +1,6 @@
 ~~THIS MODPACK REQUIRES JAVA 25 FOR C2MEF~~ C2ME causes server shutdown
 pyrellium conflicts with luminous nether
+Magma vision need Architectury API Fabric
 
 REMOVE
 have to remove inmis achievements and backpacks
