@@ -45,15 +45,16 @@
 		7) Firework cooldown
 		8) Boat Load
 		9) Horse Stonks
-	3) Progression
+	3) Progression(6)
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
-	4) Combat(3)+
+	4) Combat(6)+
 		1) Spear Backport
 		2) Fabulous Fletching
 		3) Guard Villagers
 		4) Wither: Reincarnated
-		5) 
+		5) Ender Trigon
+		6) True Ending
 	5) Redstone(2)+
 		1) Re-Locate
 		2) Unflavoured pipes
