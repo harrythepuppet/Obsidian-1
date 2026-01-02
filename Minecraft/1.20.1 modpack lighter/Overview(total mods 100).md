@@ -9,7 +9,9 @@ relocate silent blocks
 maybe add:
 Serene Seasons Plus
 Farmers Delight Natures compat
-Immersive Weathering
+Farmers Respite
+Enemy Expansion
+
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
