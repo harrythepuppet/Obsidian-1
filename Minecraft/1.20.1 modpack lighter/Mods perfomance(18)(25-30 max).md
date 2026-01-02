@@ -1,4 +1,4 @@
-1) Perfomance(16)
+1) Perfomance(18)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -26,7 +26,8 @@
 	2) Sounds
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
-		3) 
+		3) Presence footsteps
+		4) Sound physics perfected
 3)  Tech
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
