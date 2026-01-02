@@ -65,6 +65,9 @@
 		3) Nether Chested(PuzzlesAPI)
 	8) Alchemy
 		1) Recall Potion(Fabric)
+		2) Potion Blender
+		3) Potion Cauldron
+		4) 
 	9) Rebalance(1)+
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
