@@ -25,7 +25,7 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics()(20+-)
+2) Mechanics(28!)(20+-)
 	1) Survival(7)+
 		1) Immersive Weathering
 		2) HTs TreeChop
