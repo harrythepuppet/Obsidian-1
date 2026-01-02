@@ -67,7 +67,7 @@
 		1) Recall Potion(Fabric)
 		2) Potion Blender
 		3) Potion Cauldron
-		4) 
+		4) Forbidden Potions
 	9) Rebalance(1)+
 		1) TotemCooldown
 3) Additional mods(can live without them)(?)
