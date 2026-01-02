@@ -48,7 +48,7 @@
 	3) Progression(3)
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
-		3) Reforged Armor
+		3) Ancient Forkways
 	4) Combat(6)+
 		1) Spear Backport
 		2) Fabulous Fletching
