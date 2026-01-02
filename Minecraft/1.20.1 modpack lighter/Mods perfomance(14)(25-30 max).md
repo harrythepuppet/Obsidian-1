@@ -14,6 +14,7 @@
 	13) Server Performance - Smooth Chunk
 	14) Chunk Sending
 	15) Enhanced Block Entities
+	16) Dynamic FPS
 2) Graphics+sounds
 	1) Graphics
 		1) Oculus
