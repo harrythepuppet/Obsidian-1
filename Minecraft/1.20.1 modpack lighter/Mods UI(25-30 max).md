@@ -5,6 +5,7 @@
 	4) Dynamic Crosshair
 2) UX
 	1) JEI
+	2) Sound controller
 3) QOL
 	1) Mouse Tweaks
 	2) ~~Auto Elytra~~
