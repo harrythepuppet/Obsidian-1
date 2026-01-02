@@ -3,6 +3,7 @@
 	2) Elytra Durability indicator
 	3) Horse Stats Vanilla
 	4) Dynamic Crosshair
+	5) ImmersiveUI(OcloLib)
 2) UX
 	1) JEI
 	2) Sound controller
