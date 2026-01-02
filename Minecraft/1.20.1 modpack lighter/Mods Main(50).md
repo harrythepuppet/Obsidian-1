@@ -49,7 +49,7 @@
 		2) End Remastered
 	4) Combat
 		1) Spear Backport
-	5) Redstone+
+	5) Redstone(2)+
 		1) Re-Locate
 		2) Unflavoured pipes
 	6) Building(6)+
