@@ -13,6 +13,7 @@
 	12) Alternate Current
 	13) Server Performance - Smooth Chunk
 	14) Chunk Sending
+	15) Enhanced Block Entities
 2) Graphics+sounds
 	1) Graphics
 		1) Oculus
