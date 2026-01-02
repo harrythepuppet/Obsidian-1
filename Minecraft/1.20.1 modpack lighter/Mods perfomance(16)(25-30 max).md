@@ -21,12 +21,12 @@
 	1) Graphics
 		1) Oculus
 		2) Particle Rain
-		3) Fog(M.R.U.)
+		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
 		4) 
 	2) Sounds
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
-		3) Euphonium
+		3) 
 3)  Tech
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
