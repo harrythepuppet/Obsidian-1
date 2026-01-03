@@ -33,8 +33,8 @@
 		11) Snow! Real magic
 		12) Rainbows!(?)
 		13) SodiumDynamicLightForge(SodiumSettingsAPI)
-		14) True Darkness Forge
-		15) Novum's Altitude
+		14) True Darkness Forge(?) SKY IS FLICKERING
+		15) Novum's Altitude(?) SKY IS FLICKERING
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
