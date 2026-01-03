@@ -13,6 +13,7 @@
 	2) Sound controller
 	3) Camera overhaul reforged
 	4) Axiom(DBTools for axiom)
+	5) Female Gender Mod
 3) QOL
 	1) Mouse Tweaks
 	2) ~~Auto Elytra~~
