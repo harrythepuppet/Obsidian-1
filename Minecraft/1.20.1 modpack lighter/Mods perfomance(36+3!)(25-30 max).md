@@ -18,8 +18,8 @@
 	17) Connectored C2ME(!!!!)
 	18) Noisium(!!!!)
 	19) Smooth Boot
-2) Graphics+sounds(16)
-	1) Graphics(15)
+2) Graphics+sounds(18)
+	1) Graphics(14)
 		1) Oculus
 		2) Particle Rain
 		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
