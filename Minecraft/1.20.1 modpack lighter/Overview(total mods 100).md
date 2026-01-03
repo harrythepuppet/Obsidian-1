@@ -4,6 +4,7 @@ pyrellium conflicts with luminous nether
 Magma vision need Architectury API Fabric
 
 True Darkness Forge(?) Спорний мод, надто темно 
+Novum's Altitude(?) SKY IS FLICKERING
 
 MUST DO
 enchantment costs(immersive enchantment)
