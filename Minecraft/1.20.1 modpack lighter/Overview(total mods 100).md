@@ -21,6 +21,7 @@ Enemy Expansion
 Snowy Sniffer
 Snowy biomes: Enhanced
 Snow under trees
+forgiving world dimension stacking
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
