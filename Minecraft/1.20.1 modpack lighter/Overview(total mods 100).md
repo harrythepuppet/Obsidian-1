@@ -3,6 +3,8 @@
 pyrellium conflicts with luminous nether
 Magma vision need Architectury API Fabric
 
+True Darkness Forge(?) Спорний мод, надто темно 
+
 MUST DO
 enchantment costs(immersive enchantment)
 
