@@ -23,7 +23,8 @@
 	4) Axiom(DBTools for axiom)
 	5) Female Gender Mod
 	6) No f3
-	7) 
+	7) Compass coordinates
+	8) 
 4) QOL
 	1) Mouse Tweaks
 	2) Better advancements
