@@ -24,7 +24,7 @@
 	5) Female Gender Mod
 	6) Unofficial port no f3
 	7) Spyglass Improvements
-	8) Map Atlases
+	8) Map Atlases(Cardinal Components)
 	9) Better Nether Map
 4) QOL
 	1) Mouse Tweaks
