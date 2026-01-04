@@ -23,7 +23,7 @@
 	4) Axiom(DBTools for axiom)
 	5) Female Gender Mod
 	6) No f3
-	7) Compass coordinates FAIL
+	7) ~~Compass coordinates FAIL~~
 	8) Spyglass Improvements FAIL
 	9) Spygless astrology FAIL
 4) QOL
