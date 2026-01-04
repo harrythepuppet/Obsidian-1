@@ -6,7 +6,7 @@
 		3) Shattered World Limits 
 		4) Continents 
 		5) Spelunkery(MoonlightLib)
-		6) Rainbow Reef
+		6) ~~Rainbow Reef~~ Oceanic Realms
 		7) Dungeons and Taverns(or yung, need tests)
 		8) Darker Depths
 		9) Geophilic
