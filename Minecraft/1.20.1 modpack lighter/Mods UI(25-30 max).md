@@ -22,7 +22,7 @@
 	3) Camera overhaul reforged
 	4) Axiom(DBTools for axiom)
 	5) Female Gender Mod
-	6) No f3
+	6) No f3 / No coordinates
 	7) ~~Compass coordinates FAIL~~
 	8) Spyglass Improvements
 4) QOL
