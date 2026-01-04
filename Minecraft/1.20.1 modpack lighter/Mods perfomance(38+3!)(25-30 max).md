@@ -46,3 +46,4 @@
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
 	4) Continuity(?)
+	5) Toggle Enchantments
