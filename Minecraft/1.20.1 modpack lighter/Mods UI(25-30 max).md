@@ -26,7 +26,7 @@
 	7) Spyglass Improvements
 	8) ~~Map Atlases~~ ~~Map Album~~
 	9) Better Nether Map
-	10) 
+	10) Crawl on demand
 4) QOL
 	1) Mouse Tweaks
 	2) Better advancements
