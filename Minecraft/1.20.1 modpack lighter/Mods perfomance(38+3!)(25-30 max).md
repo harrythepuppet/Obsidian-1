@@ -1,4 +1,4 @@
-1) Perfomance(19)
+1) Perfomance(20)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -18,8 +18,9 @@
 	17) Connectored C2ME(!!!!)
 	18) Noisium(!!!!)
 	19) Smooth Boot
+	20) Particle Core(Fzzy)
 2) Graphics+sounds(18)
-	1) Graphics(14)
+	1) Graphics(14)+
 		1) Oculus
 		2) Particle Rain
 		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
