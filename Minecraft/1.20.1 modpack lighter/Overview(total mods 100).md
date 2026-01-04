@@ -9,6 +9,7 @@ Novum's Altitude(?) SKY IS FLICKERING
 
 MUST DO
 enchantment costs(immersive enchantment)
+DO SOMETHING WITH COMPASSES
 
 REMOVE
 have to remove inmis achievements and backpacks

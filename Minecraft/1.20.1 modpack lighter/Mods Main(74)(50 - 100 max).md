@@ -59,9 +59,10 @@
 		6) True Ending
 		7) Nyf's Spiders
 		8) Variants&Ventures
-	5) Redstone(2)+
+	5) Redstone(3)+
 		1) Re-Locate
 		2) Unflavoured pipes
+		3) Autocrafter early
 	6) Building(6)+
 		1) Additional Placements
 		2) Amendments

@@ -23,8 +23,9 @@
 	4) Axiom(DBTools for axiom)
 	5) Female Gender Mod
 	6) No f3 / No coordinates
-	7) ~~Compass coordinates FAIL~~
-	8) Spyglass Improvements
+	7) Spyglass Improvements
+	8) Map Atlases
+	9) Better Nether Map
 4) QOL
 	1) Mouse Tweaks
 	2) Better advancements
