@@ -24,8 +24,7 @@
 	5) Female Gender Mod
 	6) No f3
 	7) ~~Compass coordinates FAIL~~
-	8) Spyglass Improvements FAIL
-	9) Spygless astrology FAIL
+	8) Spyglass Improvements
 4) QOL
 	1) Mouse Tweaks
 	2) Better advancements
