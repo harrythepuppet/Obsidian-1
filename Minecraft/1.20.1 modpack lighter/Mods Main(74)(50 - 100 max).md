@@ -90,4 +90,6 @@
 		2) Customized Tridents
 		3) Better Impaling
 3) Additional mods(can live without them)(?)
-	1) 
+	1) Rebalance
+		1) Hotbar totems
+	2) 
