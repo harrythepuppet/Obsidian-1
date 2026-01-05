@@ -24,7 +24,7 @@
 	3) Camera overhaul reforged
 	4) Axiom(DBTools for axiom)
 	5) Female Gender Mod
-	6) Unofficial port no f3
+	6) (Unofficial port) no f3
 	7) Spyglass Improvements
 	8) ~~Map Atlases~~ ~~Map Album~~
 	9) Better Nether Map
