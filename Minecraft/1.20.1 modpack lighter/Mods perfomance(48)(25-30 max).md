@@ -42,7 +42,7 @@
 		2) The Sound of Rain
 		3) Presence footsteps
 		4) Sound physics perfected
-3)  Tech(8)
+3)  Tech(9)
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
@@ -51,6 +51,7 @@
 	6) ETF
 	7) EMF
 	8) ESF
+	9) Fusion(connected textures)
 
 Mods i can live without
 1) Lod entity rendering
