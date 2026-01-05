@@ -2,6 +2,7 @@
 pyrellium conflicts with luminous nether
 Magma vision need Architectury API Fabric
 EnvironmentZ BREAKS INVENTORY
+Novums Altitude(till it fixes incompat with shaders)
 
 True Darkness Forge(?) Спорний мод, надто темно 
 Novum's Altitude(?) SKY IS FLICKERING

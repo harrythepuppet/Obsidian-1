@@ -1,17 +1,16 @@
-1) GUI(13)+
-	1) AppleSkin
-	2) Elytra Durability indicator(?)
-	3) Horse Stats Vanilla
-	4) Dynamic Crosshair
-	5) ImmersiveUI(OcloLib)
-	6) Satisfying buttons
-	7) Smooth scrolling
-	8) Smooth Swapping
-	9) Smooth Gui+
-	10) Better F3
-	11) Chat Head
-	12) Chat Animation Smooth Chat+
-	13) Raised+
+1) GUI(12)+
+	1) Elytra Durability indicator(?)
+	2) Horse Stats Vanilla
+	3) Dynamic Crosshair
+	4) ImmersiveUI(OcloLib)
+	5) Satisfying buttons
+	6) Smooth scrolling
+	7) Smooth Swapping
+	8) Smooth Gui+
+	9) Better F3
+	10) Chat Head
+	11) Chat Animation Smooth Chat+
+	12) Raised
 2) Main Screen(5)+
 	1) Panorama
 	2) Panorama screens
