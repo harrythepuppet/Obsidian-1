@@ -36,6 +36,7 @@
 		12) Rainbows!(?)
 		13) SodiumDynamicLightForge(SodiumSettingsAPI)
 		14) Novum's Altitude(?) SKY IS FLICKERING
+		15) Animation Overhaul-
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
@@ -52,4 +53,3 @@ Mods i can live without
 1) Lod entity rendering+
 2) Distant Horizons API+
 3) DH Snow Fix+
-4) Bobby
