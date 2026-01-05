@@ -1,4 +1,4 @@
-1) Perfomance(21)
+1) Perfomance(22)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -20,6 +20,7 @@
 	19) Smooth Boot
 	20) Particle Core(Fzzy)
 	21) Fix GPU Memory Leak
+	22) CullLessLeavesReforged
 2) Graphics+sounds(19)
 	1) Graphics(14)+
 		1) Oculus
@@ -41,12 +42,15 @@
 		2) The Sound of Rain
 		3) Presence footsteps
 		4) Sound physics perfected
-3)  Tech(5)
+3)  Tech(8)
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
 	4) Continuity(?)
 	5) Toggle Enchantments
+	6) ETF
+	7) EMF
+	8) ESF
 
 Mods i can live without
 1) Lod entity rendering
