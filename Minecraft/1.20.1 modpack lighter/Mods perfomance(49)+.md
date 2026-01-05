@@ -1,4 +1,4 @@
-1) Perfomance(22)
+1) Perfomance(21)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -7,20 +7,19 @@
 	6) ModernFix
 	7) FerriteCore
 	8) ImmediatelyFast
-	9) Fastload
-	10) Fast Async World Save(Cupboard)
-	11) Better Fps - Render Distance
-	12) Alternate Current
-	13) Server Performance - Smooth Chunk
-	14) Chunk Sending
-	15) Enhanced Block Entities
-	16) Dynamic FPS
-	17) Connectored C2ME(!!!!)
-	18) Noisium(!!!!)
-	19) Smooth Boot
-	20) Particle Core(Fzzy)
-	21) Fix GPU Memory Leak
-	22) CullLessLeavesReforged
+	9) Fast Async World Save(Cupboard)
+	10) Better Fps - Render Distance
+	11) Alternate Current
+	12) Server Performance - Smooth Chunk
+	13) Chunk Sending
+	14) Enhanced Block Entities
+	15) Dynamic FPS
+	16) Connectored C2ME(!!!!)
+	17) Noisium(!!!!)
+	18) Smooth Boot
+	19) Particle Core(Fzzy)
+	20) Fix GPU Memory Leak
+	21) CullLessLeavesReforged
 2) Graphics+sounds(18)
 	1) Graphics(14)+
 		1) Oculus
