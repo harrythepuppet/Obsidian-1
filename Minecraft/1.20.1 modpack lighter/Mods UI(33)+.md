@@ -1,4 +1,4 @@
-1) GUI(12)+
+1) GUI(13)+
 	1) AppleSkin
 	2) Elytra Durability indicator(?)
 	3) Horse Stats Vanilla
@@ -11,14 +11,14 @@
 	10) Better F3
 	11) Chat Head
 	12) Smooth Chat+
-	13) Raised-
-2) Main Screen
+	13) Raised+
+2) Main Screen(5)+
 	1) Panorama
 	2) Panorama screens
 	3) Cherished world
 	4) Modern world creation(Konkrete)
 	5) Better world loading(midnight lib)
-3) UX
+3) UX(11)+
 	1) JEI
 	2) Sound controller
 	3) Camera overhaul reforged
@@ -30,7 +30,7 @@
 	9) Better Nether Map
 	10) Crawl on demand
 	11) Simple Hotbar Swapping
-4) QOL
+4) QOL(4)
 	1) Mouse Tweaks
 	2) Better advancements
 	3) Better third person
