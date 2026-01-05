@@ -2,7 +2,7 @@
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
-	4) EnlightenedBlockEntities(?)
+	4) EnchancedBlockEntities(?)
 	5) Entity Culling
 	6) ModernFix
 	7) FerriteCore
