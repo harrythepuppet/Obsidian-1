@@ -45,12 +45,11 @@
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
-	4) Continuity(?)
-	5) Toggle Enchantments
-	6) ETF
-	7) EMF
-	8) ESF
-	9) Fusion(connected textures)
+	4) Toggle Enchantments
+	5) ETF
+	6) EMF
+	7) ESF
+	8) Fusion(connected textures)
 
 Mods i can live without
 1) Lod entity rendering
