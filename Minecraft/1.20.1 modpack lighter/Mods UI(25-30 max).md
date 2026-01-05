@@ -11,7 +11,7 @@
 	10) Better F3
 	11) Chat Head
 	12) Smooth Chat
-	13) Bedrock Hotbar-
+	13) Raised-
 2) Main Screen
 	1) Panorama
 	2) Panorama screens
