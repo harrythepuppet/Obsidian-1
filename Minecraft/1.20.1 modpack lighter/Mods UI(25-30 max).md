@@ -1,6 +1,6 @@
-1) GUI
+1) GUI(12)+
 	1) AppleSkin
-	2) Elytra Durability indicator
+	2) Elytra Durability indicator(?)
 	3) Horse Stats Vanilla
 	4) Dynamic Crosshair
 	5) ImmersiveUI(OcloLib)
@@ -17,7 +17,6 @@
 	3) Cherished world
 	4) Modern world creation(Konkrete)
 	5) Better world loading(midnight lib)
-	6) 
 3) UX
 	1) JEI
 	2) Sound controller

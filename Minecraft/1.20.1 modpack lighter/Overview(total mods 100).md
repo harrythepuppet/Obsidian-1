@@ -27,6 +27,7 @@ Snowy biomes: Enhanced
 Snow under trees
 forgiving world dimension stacking
 vintage animations
+3D Hands
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
