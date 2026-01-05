@@ -31,7 +31,7 @@
 		2) HTs TreeChop
 		3) Serene Seasons(GlitchCore)
 		4) Farmer's Delight
-		5) ~~Thermite(Complete Config) (SINYTRA)~~ / EnvironmentZ(AutoTag, EnvironmentZ compat)
+		5) ~~Thermite(Complete Config) (SINYTRA)~~ / EnvironmentZ(AutoTag, EnvironmentZ compat)+
 		6) Thirst Was Taken
 		7) Spice Of Life: Classic
 		8) KilnReborn
