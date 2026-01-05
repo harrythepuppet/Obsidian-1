@@ -25,6 +25,7 @@ Snowy Sniffer
 Snowy biomes: Enhanced
 Snow under trees
 forgiving world dimension stacking
+vintage animations
 
 SEAGULLS https://modrinth.com/mod/squawking-mod/gallery
 
