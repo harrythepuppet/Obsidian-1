@@ -46,7 +46,7 @@
 		8) Boat Load
 		9) Horse Stonks
 		10) Sit's End Teleport Anchor
-		11) Ancient Portal Fast Travel
+		11) Ancient Portal Fast Travel(?)
 	3) Progression(2)
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
