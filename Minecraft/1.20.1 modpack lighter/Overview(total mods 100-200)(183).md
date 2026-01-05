@@ -1,7 +1,7 @@
 ~~THIS MODPACK REQUIRES JAVA 25 FOR C2MEF~~ C2ME causes server shutdown - incompat with Thermite(Complete Config) (SINYTRA), changed for environmentZ but it doesent react to seasons much
-
 pyrellium conflicts with luminous nether
 Magma vision need Architectury API Fabric
+EnvironmentZ BREAKS INVENTORY
 
 True Darkness Forge(?) Спорний мод, надто темно 
 Novum's Altitude(?) SKY IS FLICKERING
