@@ -7,7 +7,7 @@
 	6) Satisfying buttons
 	7) Smooth scrolling
 	8) Smooth Swapping
-	9) Smooth Gui
+	9) Smooth Gui+
 	10) Better F3
 	11) Chat Head
 	12) Smooth Chat+
