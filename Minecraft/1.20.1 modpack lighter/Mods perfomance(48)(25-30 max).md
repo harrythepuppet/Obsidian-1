@@ -1,4 +1,4 @@
-1) Perfomance(20)
+1) Perfomance(21)
 	1) Distant Horizons
 	2) Embeddium
 	3) Chloride(Embeddium needed)
@@ -20,29 +20,28 @@
 	19) Smooth Boot
 	20) Particle Core(Fzzy)
 	21) Fix GPU Memory Leak
-2) Graphics+sounds(18)
+2) Graphics+sounds(19)
 	1) Graphics(14)+
 		1) Oculus
 		2) Particle Rain
-		3) Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
-		4) Explosive Enhancements
-		5) Coastal Waves
-		6) Wakes
-		7) Particular Reforged
-		8) Visuality Reforged(?)
-		9) Immersive winds
-		10) Immersive Snow
-		11) Snow! Real magic
-		12) Rainbows!(?)
-		13) SodiumDynamicLightForge(SodiumSettingsAPI)
-		14) Novum's Altitude(?) SKY IS FLICKERING, SHADER INCOMPAT
-		15) Animation Overhaul
+		3) Explosive Enhancements
+		4) Coastal Waves
+		5) Wakes
+		6) Particular Reforged
+		7) Visuality Reforged(?)
+		8) Immersive winds
+		9) Immersive Snow
+		10) Snow! Real magic
+		11) Rainbows!(?)
+		12) SodiumDynamicLightForge(SodiumSettingsAPI)
+		13) Novum's Altitude(?) SKY IS FLICKERING, SHADER INCOMPAT
+		14) Animation Overhaul
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
 		3) Presence footsteps
 		4) Sound physics perfected
-3)  Tech(3)
+3)  Tech(5)
 	1) item obliterator(necronomiconAPI)
 	2) Sinytra Connector(Forgified Fabric API)
 	3) PAXI(YUNGSLib)
@@ -51,4 +50,3 @@
 
 Mods i can live without
 1) Lod entity rendering
-2) DH Snow Fix

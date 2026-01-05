@@ -6,6 +6,7 @@ Magma vision need Architectury API Fabric
 True Darkness Forge(?) Спорний мод, надто темно 
 Novum's Altitude(?) SKY IS FLICKERING
  Spyglass astrology FAIL
+ Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
 
 MUST DO
 enchantment costs(immersive enchantment)
