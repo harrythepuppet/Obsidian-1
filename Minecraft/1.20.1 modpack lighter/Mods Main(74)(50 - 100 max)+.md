@@ -51,7 +51,7 @@
 		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
 		2) End Remastered
 	4) Combat(8)+
-		1) Spear Backport
+		1) Backported spears
 		2) Fabulous Fletching
 		3) Guard Villagers
 		4) Wither: Reincarnated
