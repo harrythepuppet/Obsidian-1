@@ -11,6 +11,7 @@
 	10) Better F3
 	11) Chat Head
 	12) Smooth Chat
+	13) Bedrock Hotbar
 2) Main Screen
 	1) Panorama
 	2) Panorama screens
@@ -28,6 +29,7 @@
 	8) ~~Map Atlases~~ ~~Map Album~~
 	9) Better Nether Map
 	10) Crawl on demand
+	11) Simple Hotbar Swapping
 4) QOL
 	1) Mouse Tweaks
 	2) Better advancements
