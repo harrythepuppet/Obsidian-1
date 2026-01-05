@@ -47,3 +47,9 @@
 	3) PAXI(YUNGSLib)
 	4) Continuity(?)
 	5) Toggle Enchantments
+
+Mods i can live without
+1) Lod entity rendering
+2) Distant Horizons API
+3) DH Snow Fix
+4) 
