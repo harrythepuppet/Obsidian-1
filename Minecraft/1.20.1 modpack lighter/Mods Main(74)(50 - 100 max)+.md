@@ -86,7 +86,7 @@
 		3) Allurement
 		4) Air Hop
 	10) Rebalance(3)+
-		1) TotemCooldown
+		1) TotemsCooldown
 		2) Customized Tridents
 		3) Better Impaling
 3) Additional mods(can live without them)(?)
