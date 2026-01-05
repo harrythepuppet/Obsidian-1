@@ -10,6 +10,7 @@
 	9) Smooth Gui
 	10) Better F3
 	11) Chat Head
+	12) Smooth Chat
 2) Main Screen
 	1) Panorama
 	2) Panorama screens
