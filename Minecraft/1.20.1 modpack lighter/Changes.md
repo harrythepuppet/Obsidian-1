@@ -30,4 +30,12 @@ Visuality reforged:
 		enabled = false
 		Water Circles Colored
 		colored = false
-		
+
+Spelunkery
+	obliterated compasses and depth meter
+
+Vanilla
+	Changed recipes: compass, clock, map
+
+Serene Seasons
+	Changed recipes: calendar
