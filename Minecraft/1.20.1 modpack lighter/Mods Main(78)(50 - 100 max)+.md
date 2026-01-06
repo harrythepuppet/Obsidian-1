@@ -51,7 +51,7 @@
 		10) Sit's End Teleport Anchor
 		11) Ancient Portal Fast Travel(?)
 	3) Progression(2)
-		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API)
+		1) Bosses of Mass Destruction(CERBONS API, Cloth Config API) (Cardinal Components, Fabric Kotlin)
 		2) End Remastered
 	4) Combat(8)+
 		1) Backported spears
