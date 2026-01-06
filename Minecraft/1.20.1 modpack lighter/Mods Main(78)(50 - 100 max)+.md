@@ -95,4 +95,4 @@
 3) Additional mods(can live without them)(?)
 	1) Rebalance
 		1)
-	2) 
+	2) Enchanting
