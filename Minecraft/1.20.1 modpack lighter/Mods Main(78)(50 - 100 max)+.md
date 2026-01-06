@@ -25,8 +25,8 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics(54!)(30+-)
-	1) Survival(9)+
+2) Mechanics(56!)(30+-)
+	1) Survival(11)+
 		1) Immersive Weathering
 		2) HTs TreeChop
 		3) Serene Seasons(GlitchCore)
@@ -36,6 +36,8 @@
 		7) KilnReborn
 		8) Map Atlases
 		9) Better Lodestones
+		10) Loded(Fabric)
+		11) Spyglass Astronomy
 	2) Transportation(11)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
