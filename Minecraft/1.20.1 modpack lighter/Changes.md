@@ -35,7 +35,7 @@ Spelunkery
 	obliterated compasses and depth meter
 
 Vanilla
-	Changed recipes: compass, clock, map
+	Changed recipes: compass, clock, map, death compass
 
 Serene Seasons
 	Changed recipes: calendar
