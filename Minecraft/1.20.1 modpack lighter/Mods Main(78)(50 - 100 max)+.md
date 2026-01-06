@@ -96,3 +96,4 @@
 	1) Rebalance
 		1)
 	2) Enchanting
+		1) Soulbound Enchantment
