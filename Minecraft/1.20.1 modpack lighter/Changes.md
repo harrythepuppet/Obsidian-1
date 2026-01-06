@@ -43,4 +43,10 @@ Serene Seasons
 Map Atlases
 	Config:
 		Client:
+			coordinate_text = false
+			follow_player = false
+			rotate_with_player = false
+			cardinal_scale = 0.8
+			darken_at_night = true
+			automatic_slice_change = true
 			
