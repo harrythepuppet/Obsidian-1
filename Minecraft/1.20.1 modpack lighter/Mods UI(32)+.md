@@ -17,7 +17,7 @@
 	3) Cherished world
 	4) Modern world creation(Konkrete)
 	5) Better world loading(midnight lib)
-3) UX(11)+
+3) UX(10)+
 	1) JEI
 	2) Sound controller
 	3) Camera overhaul reforged
@@ -25,12 +25,12 @@
 	5) Female Gender Mod
 	6) (Unofficial port) no f3
 	7) Spyglass Improvements
-	8) ~~Map Atlases~~ ~~Map Album~~
-	9) Better Nether Map
-	10) Crawl on demand
-	11) Simple Hotbar Swapping
-4) QOL(4)
+	8) Better Nether Map
+	9) Crawl on demand
+	10) Simple Hotbar Swapping
+4) QOL(5)
 	1) Mouse Tweaks
 	2) Better advancements
 	3) Better third person
 	4) Controlling(Searchables)
+	5) Inventory Management Deluxe

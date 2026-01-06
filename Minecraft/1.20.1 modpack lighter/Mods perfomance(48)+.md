@@ -21,7 +21,7 @@
 	20) Fix GPU Memory Leak
 	21) CullLessLeavesReforged
 2) Graphics+sounds(18)
-	1) Graphics(14)+
+	1) Graphics(13)+
 		1) Oculus
 		2) Particle Rain
 		3) Explosive Enhancements
@@ -34,8 +34,7 @@
 		10) Snow! Real magic
 		11) Rainbows!(?)
 		12) SodiumDynamicLightForge(SodiumSettingsAPI)
-		13) Novum's Altitude(?) SKY IS FLICKERING, SHADER INCOMPAT
-		14) Animation Overhaul
+		13) Animation Overhaul
 	2) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain

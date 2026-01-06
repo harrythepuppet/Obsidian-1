@@ -1,12 +1,12 @@
 
 1) Worldgen(22!)(max20)
-	1) Overworld(10)
+	1) Overworld(12)
 		1) Natures Spirit(Terrablender) 
 		2) Naturalist(GeckoLib) 
 		3) Shattered World Limits 
 		4) Continents 
 		5) Spelunkery(MoonlightLib)
-		6) ~~Rainbow Reef~~ Oceanic Realms
+		6) Oceanic Realms
 		7) Dungeons and Taverns(or yung, need tests)
 		8) Darker Depths
 		9) Geophilic
@@ -25,16 +25,17 @@
 		1) Endercon
 		2) The Outer End (Blueprint mod, lol)
 		3) The Endergetic Expansion
-2) Mechanics(52!)(30+-)
-	1) Survival(8)+
+2) Mechanics(54!)(30+-)
+	1) Survival(9)+
 		1) Immersive Weathering
 		2) HTs TreeChop
 		3) Serene Seasons(GlitchCore)
 		4) Farmer's Delight
-		5) ~~Thermite(Complete Config) (SINYTRA)~~ / EnvironmentZ(AutoTag, EnvironmentZ compat)+
-		6) Thirst Was Taken
-		7) Spice Of Life: Classic
-		8) KilnReborn
+		5) Tough as nails
+		6) Spice Of Life: Classic
+		7) KilnReborn
+		8) Map Atlases
+		9) Better Lodestones
 	2) Transportation(11)+
 		1) Ice BoatNerf Reforged
 		2) Balanced minecarts
