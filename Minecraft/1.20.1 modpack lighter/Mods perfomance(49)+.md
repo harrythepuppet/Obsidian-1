@@ -49,6 +49,7 @@
 	6) EMF
 	7) ESF
 	8) Fusion(connected textures)
+	9) CraftTweaker(Easy CraftTweaker)
 
 Mods i can live without
 1) Lod entity rendering
