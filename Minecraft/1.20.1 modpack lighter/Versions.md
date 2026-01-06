@@ -25,4 +25,4 @@
 	-Added mod: Soulbound Enchantment, IceFire aspect, ~~Toxicity~~, Step, Protection Enchantments Overhaul, Enchantment Groups
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
-		Harvester (1 spelunkery:tangle_roots 2 3)
+		Harvester (1 spelunkery:tangle_roots 2 luminous_nether:golden_mushroom 3)
