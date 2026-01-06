@@ -49,4 +49,12 @@ Map Atlases
 			cardinal_scale = 0.8
 			darken_at_night = true
 			automatic_slice_change = true
+			smooth_panning = false
+			smooth_zooming = false
+			draw_coordinates = false(needs playtesting)
+			follow_player = false
+			enabled = false(Enables moonlight compat, which allows to place map markers on map via a special pin button)
+		Common:
+			max_map_count = 1000000
+			
 			
