@@ -56,5 +56,6 @@ Map Atlases
 			enabled = false(Enables moonlight compat, which allows to place map markers on map via a special pin button)
 		Common:
 			max_map_count = 1000000
-			
-			
+			light_map = true
+			shear_button = false
+			markers_update_period = 50
