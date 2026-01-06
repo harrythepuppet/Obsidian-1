@@ -39,3 +39,8 @@ Vanilla
 
 Serene Seasons
 	Changed recipes: calendar
+
+Map Atlases
+	Config:
+		Client:
+			
