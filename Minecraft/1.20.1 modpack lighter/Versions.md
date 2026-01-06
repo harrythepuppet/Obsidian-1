@@ -24,4 +24,5 @@
 0.0.3 - Enchantment Update
 	-Added mod: Soulbound Enchantment, IceFire aspect, ~~Toxicity~~, Step, Protection Enchantments Overhaul, Enchantment Groups
 	Enchants+Groups: 
-		Soulbound(Nether Star)
+		Soulbound (Nether Star(Or nether star shard))
+		Harvester (1 2 3)
