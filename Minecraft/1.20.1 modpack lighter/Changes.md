@@ -15,29 +15,7 @@ inmis:
 		  "spillMainBackpacksOnDeath": false,
 		  "trinketRendering": true, s
 
-environmentZ:
-	Config:
-	// Increase for less harsh environments
-	"temperatureCalculationTime": 5, (default 20)
-	// Try find an easy world spawn point
-	"easyWorldSpawn": true,
-	"iconX": 7,
-	"iconY": 52,
-	"thermometerIconX": 140,
-	"thermometerIconY": 32,
-	"showThermometer": false, (default true)
-	"startUpComfortEffectDuration": 9600,
-	// Handle with care!
-	"heatBlockRadius": 3,
-	"printInConsole": false,
-	// White overlay while in cold biomes
-	"coldOverlay": false, (default true)
-	"shakingScreenEffect": true,
-	// Handles thirst when Dehydration mod is loaded
-	"overheatingExhaustion": 0.07500000298023224,
-	// Undo dehydration mod compat
-	"exhaustionInsteadDehydration": true, (default false)
-	"blurScreenEffect": true
+Tough as nails client 1000 1000
 
 Particular reforged:
 	config:
@@ -52,3 +30,4 @@ Visuality reforged:
 		enabled = false
 		Water Circles Colored
 		colored = false
+		
