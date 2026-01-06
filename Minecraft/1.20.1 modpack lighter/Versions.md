@@ -23,3 +23,5 @@
 		7) Змінено крафт рівайв компаса, тепер це більш цінний айтем
 0.0.3 - Enchantment Update
 	-Added mod: Soulbound Enchantment, IceFire aspect, ~~Toxicity~~, Step, Protection Enchantments Overhaul, Enchantment Groups
+	Enchants+Groups: 
+		
