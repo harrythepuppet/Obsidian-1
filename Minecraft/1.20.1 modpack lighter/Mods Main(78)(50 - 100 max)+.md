@@ -98,3 +98,4 @@
 		1)
 	2) Enchanting
 		1) Soulbound Enchantment
+		2) Miner's Enchant
