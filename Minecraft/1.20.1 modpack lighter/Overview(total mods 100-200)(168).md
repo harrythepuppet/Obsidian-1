@@ -9,7 +9,7 @@ Novum's Altitude(?) SKY IS FLICKERING
  Spyglass astrology FAIL
  Fog(M.R.U.) (is not working right with distant horizons but its great ill keep it)
 
-Miner's Enchant ЯКЩО З'ЯВИТЬСЯ МОЖЛИВІСТЬ ЗАЛИШИТИ ЕНЧАНТ ТІЛЬКИ ДЛЯ ЛОПАТИ
+Miner's Enchant ЯКЩО З'ЯВИТЬСЯ МОЖЛИВІСТЬ ЗАЛИШИТИ ЕНЧАНТ ТІЛЬКИ ДЛЯ ЛОПАТИ ТО ВЕРТАЄМОООО
 
 MUST DO
 enchantment costs(immersive enchantment)

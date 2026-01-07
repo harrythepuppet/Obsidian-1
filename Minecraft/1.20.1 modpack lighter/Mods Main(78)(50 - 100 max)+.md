@@ -98,10 +98,9 @@
 		1)
 	2) Enchanting
 		1) Soulbound Enchantment
-		2) Miner's Enchant
-		3) Sharpness Enchantment Overhaul
-		4) Soulbound Enchantment
-		5) Ice Enchantments
-		6) Step
-		7) Protection Enchantments Overhaul
-		8) Vein Mining
+		2) Sharpness Enchantment Overhaul
+		3) Soulbound Enchantment
+		4) Ice Enchantments
+		5) Step
+		6) Protection Enchantments Overhaul
+		7) Vein Mining
