@@ -104,3 +104,4 @@
 		5) Ice Enchantments
 		6) Step
 		7) Protection Enchantments Overhaul
+		8) Vein Mining

@@ -22,7 +22,7 @@
 		6) В атлас вставляється овердохріна мап, сам атлас доволі топорний в управлінні і займає слот в швидкому слоті для мінімапи, тому не сильно краще компаса, просто красивіший ендгейм айтем
 		7) Змінено крафт рівайв компаса, тепер це більш цінний айтем
 0.0.3 - Enchantment Update
-	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin, Miner's Enchant, Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Veinst | Vein Miner, Enchant Specifier
+	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin, Miner's Enchant, Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Vein Mining, Enchant Specifier
 	-Removed mod: Toggle Enchantment
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
