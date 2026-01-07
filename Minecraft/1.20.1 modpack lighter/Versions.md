@@ -32,3 +32,5 @@
 			Reforming (bosses_of_mass_destruction:crystal_fruit)
 			Unbreaking (1 minecraft:iron_nugget 2 spelunkery:diamond_shard 3 raw_netherite:netheritenugget )
 			)
+	BANNED ENCHANTMENTS:
+		
