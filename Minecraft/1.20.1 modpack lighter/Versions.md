@@ -28,6 +28,6 @@
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
 		GROUP_ITEM_SUSTAIN
 			(
-			Reforming ()
+			Reforming (bosses_of_mass_destruction:crystal_fruit)
 			Unbreaking (1 2 3 )
 			)
