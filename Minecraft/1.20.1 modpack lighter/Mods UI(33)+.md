@@ -11,6 +11,7 @@
 	10) Chat Head
 	11) Chat Animation Smooth Chat+
 	12) Raised
+	13) AppleSkin
 2) Main Screen(5)+
 	1) Panorama
 	2) Panorama screens
