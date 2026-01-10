@@ -24,6 +24,13 @@
 0.0.3 - Enchantment Update
 	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin,  Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Vein Mining, Enchant Specifier
 	-Removed mod: Toggle Enchantment
+	Баланс тулзів
+		Соул баунд +
+		Рестор/міцність
+		Телекінез/смелтер
+		Ефективність/вейнмайнінг/харвестер
+		Удача/сілк тач
+		(Смелтер/сілк тач)-дебаг
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
@@ -34,5 +41,6 @@
 			Reforming (bosses_of_mass_destruction:crystal_fruit)
 			Unbreaking (1 minecraft:iron_nugget 2 spelunkery:diamond_shard 3 raw_netherite:netheritenugget )
 			)
+		S
 	BANNED ENCHANTMENTS:
 		
