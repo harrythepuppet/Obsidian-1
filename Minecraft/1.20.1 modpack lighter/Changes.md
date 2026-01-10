@@ -64,3 +64,6 @@ Vein Mining
 
 Sharpness enchantment overhaul
 	  "sharpnessApplyOffTargetEffect": false,
+
+Majrusz Enchantments
+  "is_horse_armor_enchantable": false,
