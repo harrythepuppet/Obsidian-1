@@ -61,3 +61,6 @@ Map Atlases
 			markers_update_period = 50
 
 Vein Mining
+
+Sharpness enchantment overhaul
+	  "sharpnessApplyOffTargetEffect": false,
