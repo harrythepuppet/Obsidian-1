@@ -31,6 +31,8 @@
 		Ефективність/вейнмайнінг/харвестер
 		Удача/сілк тач
 		(Смелтер/сілк тач)-дебаг
+	Баланс Зброї
+		Шарпнес\Смайт\Артропод\Мізантроп
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
