@@ -59,3 +59,5 @@ Map Atlases
 			light_map = true
 			shear_button = false
 			markers_update_period = 50
+
+Vein Mining
