@@ -42,9 +42,10 @@
 		Панч\телекінез
 		хантер\Павер
 	Арбалет
-		квік чардж\
+		квік чардж+
+		Мультишот+
 		рілінг\телекінез
-		
+		хантер\спред оф аілментс
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
