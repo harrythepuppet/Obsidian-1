@@ -59,7 +59,13 @@
 		Ланж+
 	Броня
 		фізікал протекшн\меджик протекшн\файєр протекшн\бласт протекшн\проджектайл протекшн
-		аллевіейтінг\
+		торнс\венжинс\аллевіейтінг
+	Боти
+		Фрост валкер\степпінг
+		Фезер фолінг\Шоквейв\соул спід
+		депс страйдер\незер страйдер
+	Штани
+		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
