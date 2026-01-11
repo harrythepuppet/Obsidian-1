@@ -51,6 +51,7 @@
 		Фішинг фанатік+
 	Тризуб
 		лоялті\ріптайд
+		Імпейлінг\
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
