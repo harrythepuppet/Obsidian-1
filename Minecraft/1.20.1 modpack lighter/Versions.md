@@ -22,7 +22,7 @@
 		6) В атлас вставляється овердохріна мап, сам атлас доволі топорний в управлінні і займає слот в швидкому слоті для мінімапи, тому не сильно краще компаса, просто красивіший ендгейм айтем
 		7) Змінено крафт рівайв компаса, тепер це більш цінний айтем
 0.0.3 - Enchantment Update
-	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin,  Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Vein Mining, Infinity Rework
+	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin,  Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Vein Mining, 
 	-Removed mod: Toggle Enchantment
 	Баланс тулзів
 		Соул баунд +
@@ -38,6 +38,7 @@
 		Файр аспект\Фрост аспект\Свіпінг едж
 	Лук
 		Флейм\Фрост
+		Інфініті - БАН (мод іммерсив енчантінг дає можливість юзати цей енчант без стріл, конфіга нема, мод Infinity Rework це не покриває, легше видалити)
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
