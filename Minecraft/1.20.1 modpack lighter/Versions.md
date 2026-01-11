@@ -24,6 +24,7 @@
 0.0.3 - Enchantment Update
 	-Added mod: Soulbound Enchantment, Ice Enchantments, Step, Protection Enchantments Overhaul, Enchantment Groups, Raw Netherite Reforged, AppleSkin,  Enchantments Disabler(OwO), Sharpness Enchantment Overhaul, Vein Mining, 
 	-Removed mod: Toggle Enchantment
+	-Неможливо поставити Мізантропію на спис!
 	Баланс тулзів
 		Соул баунд +
 		Рестор/міцність
@@ -68,4 +69,5 @@
 			)
 		S
 	BANNED ENCHANTMENTS:
+		INFINITY
 		
