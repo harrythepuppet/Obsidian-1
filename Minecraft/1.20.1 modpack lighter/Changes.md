@@ -67,3 +67,11 @@ Sharpness enchantment overhaul
 
 Majrusz Enchantments
   "is_horse_armor_enchantable": false,
+ Allurement
+	 tweaks.horse_armor
+		#Allow horse armor to be enchanted
+		"Enchantable horse armor" = false
+		#If horse armor can appear enchanted when found in loot tables
+		"Generates in loot tables" = false
+		#Which loot tables horse armor can't appear enchanted in
+		"Unenchanted loot tables" = "minecraft:chests/village/village_weaponsmith", "minecraft:chests/stronghold_corridor", "minecraft:chests/nether_bridge"
