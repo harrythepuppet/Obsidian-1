@@ -67,6 +67,8 @@
 	Штани
 		додж\ейр хоп
 	Грудак
+		Термал Тюнінг +
+	Шолом
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
