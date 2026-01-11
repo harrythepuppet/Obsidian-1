@@ -65,6 +65,8 @@
 		Фезер фолінг\Шоквейв\соул спід
 		депс страйдер\незер страйдер
 	Штани
+		додж\ейр хоп
+	Грудак
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
