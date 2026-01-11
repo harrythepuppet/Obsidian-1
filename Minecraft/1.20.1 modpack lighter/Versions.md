@@ -52,7 +52,9 @@
 	Тризуб
 		лоялті\ріптайд
 		Імпейлінг\ченелінг
-		
+		телекінез+
+		дез віш+
+	Спис
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
