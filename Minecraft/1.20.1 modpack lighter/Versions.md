@@ -49,7 +49,8 @@
 	Вудка
 		лак оф зе сі\люрінг
 		Фішинг фанатік+
-	
+	Тризуб
+		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
