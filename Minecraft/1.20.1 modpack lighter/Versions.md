@@ -42,6 +42,7 @@
 		Панч\телекінез
 		хантер\Павер
 	Арбалет
+		квік чардж\
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
