@@ -50,6 +50,7 @@
 		лак оф зе сі\люрінг
 		Фішинг фанатік+
 	Тризуб
+		лоялті\ріптайд
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
