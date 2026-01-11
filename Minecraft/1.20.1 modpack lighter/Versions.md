@@ -58,7 +58,8 @@
 	Спис
 		Ланж+
 	Броня
-		фізікал протекшн\меджик протекшн\
+		фізікал протекшн\меджик протекшн\файєр протекшн\бласт протекшн\проджектайл протекшн
+		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
