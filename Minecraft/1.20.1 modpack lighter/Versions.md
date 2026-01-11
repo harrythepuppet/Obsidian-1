@@ -43,6 +43,7 @@
 		хантер\Павер
 	Арбалет
 		квік чардж\
+		рілінг\телекінез
 		
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
