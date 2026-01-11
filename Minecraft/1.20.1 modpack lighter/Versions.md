@@ -39,7 +39,8 @@
 	Лук
 		Флейм\Фрост
 		Інфініті - БАН (мод іммерсив енчантінг дає можливість юзати цей енчант без стріл, конфіга нема, мод Infinity Rework це не покриває, легше видалити)
-		
+		Панч\телекінез
+		хантер\Павер
 	Enchants+Groups: 
 		Soulbound ( minecraft:nether_star (Or nether star shard))
 		Harvester (1 spelunkery:tangle_roots 2 natures_spirit:desert_turnip 3 luminous_nether:golden_mushroom)
