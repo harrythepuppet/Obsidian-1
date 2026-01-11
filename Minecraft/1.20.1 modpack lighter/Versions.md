@@ -89,3 +89,4 @@
 	BANNED ENCHANTMENTS:
 		INFINITY
 		enlightenment
+		FROST RIDER
