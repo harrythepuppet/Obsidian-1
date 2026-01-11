@@ -67,6 +67,9 @@ Sharpness enchantment overhaul
 
 Majrusz Enchantments
   "is_horse_armor_enchantable": false,
+    "horse_frost_walker": {
+
+      "is_enabled": false
  Allurement
 	 tweaks.horse_armor
 		#Allow horse armor to be enchanted
