@@ -1,9 +1,12 @@
-Комп + Смартфон
+#### Комп + Смартфон
 Calendar
 Periodic notes
 
-Смартфон
+#### Смартфон
 Fit
 Commander
-Комп
+#### Комп
 Git
+Obsidian Web Clipper(Chrome Extesion)
+### Гайди
+[[How to Use Obsidian Tasks Plugin Deep Dive]]
