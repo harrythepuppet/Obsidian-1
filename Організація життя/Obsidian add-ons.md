@@ -4,6 +4,7 @@ Periodic notes
 Task Notes
 Notebook Navigator
 Advanced Tables
+Excalidraw
 #### Смартфон
 Fit
 Commander
