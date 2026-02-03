@@ -3,3 +3,13 @@
 **Софт**: годот, блокбенч, фотошоп
 **Тривалість**: 10 хв(20 хв)
 **Фіча**: взаємодія з предметами в кімнаті, робота камери
+
+### артстайл
+Laceys wardrobe
+![[Pasted image 20260203165123.jpg]]
+Mike klubnika artstyle
+![[Pasted image 20260203165355.jpg]]
+Milk outside a bag of milk
+![[Pasted image 20260203165654.jpg]]
+Sayooshi
+![[Pasted image 20260203170502.jpg]]
