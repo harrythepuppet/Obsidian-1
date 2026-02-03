@@ -13,3 +13,5 @@ Milk outside a bag of milk
 ![[Pasted image 20260203165654.jpg]]
 Sayooshi
 ![[Pasted image 20260203170502.jpg]]
++ артстайл ніки
+
