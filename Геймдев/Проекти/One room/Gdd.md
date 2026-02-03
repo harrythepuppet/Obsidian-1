@@ -14,6 +14,7 @@ Milk outside a bag of milk
 Sayooshi
 ![[Pasted image 20260203170502.jpg]]
 І артстайл ніки
+![[Pasted image 20260203194008.png]]
 
 ### основний сюжет
 
