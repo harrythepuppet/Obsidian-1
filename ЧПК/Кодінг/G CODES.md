@@ -2,4 +2,6 @@
 **G00** - Linear Rapid Positioning (Rapid Traverse)
 	Aaaa
 **G01** - Linear interpolation with Controlod Feed
-	
+	Bbbbb
+**G02** - Circular Interpolation CW
+	Vvv
