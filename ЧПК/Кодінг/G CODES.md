@@ -4,6 +4,6 @@
 **G01** - Linear interpolation with Controlled Feed
 	Один з типів робочого переміщення
 **G02** - Circular Interpolation CW
-	Другий тип робоч
+	Другий тип робочого переміщення: зробити круговий виріз, по годинниковій
 **G03** - Circular Interpolation CCW
-	Gggg
+	Зробити круговий виріз, проти годинникової
