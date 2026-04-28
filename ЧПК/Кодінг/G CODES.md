@@ -5,3 +5,5 @@
 	Bbbbb
 **G02** - Circular Interpolation CW
 	Vvv
+**G03** - Circular Interpolation CCW
+	Gggg
