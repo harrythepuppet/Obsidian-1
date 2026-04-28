@@ -1,6 +1,6 @@
 ### 1 Group
 **G00** - Linear Rapid Positioning (Rapid Traverse)
-	Швидке(холосте) переміщення, 
+	Швидке(холосте) переміщення, можна переміщатись тільки подалі від заготов
 **G01** - Linear interpolation with Controlod Feed
 	Bbbbb
 **G02** - Circular Interpolation CW
