@@ -2,7 +2,7 @@
 **G00** - Linear Rapid Positioning (Rapid Traverse)
 	Швидке(холосте) переміщення, можна переміщатись тільки подалі від заготовки, стінок, на S level
 **G01** - Linear interpolation with Controlod Feed
-	Один з типів робочог
+	Один з типів робочого переміщення
 **G02** - Circular Interpolation CW
 	Vvv
 **G03** - Circular Interpolation CCW
