@@ -10,7 +10,8 @@
 
 
 ### 7 Group
-**G40** 
+**G40** - Cutter Compensation Cancel
+
 
 **G41**
 
