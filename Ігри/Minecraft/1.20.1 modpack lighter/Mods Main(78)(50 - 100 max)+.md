@@ -3,7 +3,7 @@
 	1) Overworld(12)
 		1) Natures Spirit(Terrablender) 
 		2) Naturalist(GeckoLib) 
-		3) c
+		3) Shattered World Limits 
 		4) Continents 
 		5) Spelunkery(MoonlightLib)
 		6) Oceanic Realms
