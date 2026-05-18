@@ -35,7 +35,7 @@
 		11) Rainbows!(?)
 		12) SodiumDynamicLightForge(SodiumSettingsAPI)
 		13) Animation Overhaul
-	2) Sounds(4)+
+	3) Sounds(4)+
 		1) MAtmos(TCT core)
 		2) The Sound of Rain
 		3) Presence footsteps
