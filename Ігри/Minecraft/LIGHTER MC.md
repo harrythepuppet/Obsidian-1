@@ -32,7 +32,7 @@ Smooth Scrolling
 Chat Animation [Smooth Chat]  
 Better Third Person 
   
-мод на пришвидшення часу замість сну  
+мод на пришвидшення часу замість сну Hourglass
 
 Bridging mod - future +
 Abridged - future+
