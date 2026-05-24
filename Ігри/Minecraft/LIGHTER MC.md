@@ -28,8 +28,6 @@ Creepers Burn in Daylight
 Рецепт крафту хлібу  
   
 Smooth Boot (Reloaded)  
-Smooth Scrolling  
-Chat Animation [Smooth Chat]  
 Better Third Person 
   
 мод на пришвидшення часу замість сну Hourglass +
@@ -39,3 +37,6 @@ Abridged - future+
 
 Paving The Way - future +
 Block Runner - future +
+
+Smooth Scrolling  - future +
+Chat Animation [Smooth Chat]  - future +
