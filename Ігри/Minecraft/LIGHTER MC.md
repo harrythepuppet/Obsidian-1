@@ -33,4 +33,7 @@ Chat Animation [Smooth Chat]
 Better Third Person  
   
 мод на пришвидшення часу замість сну  
-Bridging mod??
+Bridging mod - future
+Abridged - future
+
+Paving The Way - future
