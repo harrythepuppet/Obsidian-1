@@ -26,8 +26,7 @@ Creepers Burn in Daylight
 Залишити тільки залізний ніж  +
 налаштувати спайс оф лайф  
 Рецепт крафту хлібу  
-  
-Smooth Boot (Reloaded)  
+
 Better Third Person 
   
 мод на пришвидшення часу замість сну Hourglass +
