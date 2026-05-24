@@ -23,7 +23,7 @@ Creepers Burn in Daylight
 факела на полблоки  
 Айтеми на звичайні таблички  
   
-Залишити тільки залізний ніж  
+Залишити тільки залізний ніж  +
 налаштувати спайс оф лайф  
 Рецепт крафту хлібу  
   
@@ -32,7 +32,7 @@ Smooth Scrolling
 Chat Animation [Smooth Chat]  
 Better Third Person 
   
-мод на пришвидшення часу замість сну Hourglass
+мод на пришвидшення часу замість сну Hourglass +
 
 Bridging mod - future +
 Abridged - future+
