@@ -22,7 +22,6 @@ Herds Panic+
 boids - future
 ~~Animals Herding - future instead of Herd Mentality~~
 
-чекнуть, що за льодовий кріпер, скоріше за все прибрати його  
 Creepers Burn in Daylight  +
   
 ~~факела на полблоки  - надто складно, не має сенсу, може повпливати на роботу гри~~
@@ -47,3 +46,6 @@ Chat Animation [Smooth Chat]  - future +
 
 Shimmer +
 AsyncParticles +
+
+**a-0.3**
+чекнуть, що за льодовий кріпер, скоріше за все прибрати його
