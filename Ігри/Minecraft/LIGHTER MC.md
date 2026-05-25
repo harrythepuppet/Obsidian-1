@@ -16,9 +16,9 @@ Krypton+
 Shift+WASD по переназачати  +
   
 Прибрати кабана  +
-можливо +мод на табунну поведінку мобів:
-Herd Mentality
-
+можливо +мод на табунну поведінку мобів+
+~~Herd Mentality~~
+Herds Panic+
 boids - future
 ~~Animals Herding - future instead of Herd Mentality~~
 
