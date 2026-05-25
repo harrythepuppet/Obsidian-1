@@ -18,8 +18,9 @@ Shift+WASD по переназачати  +
 Прибрати кабана  +
 можливо +мод на табунну поведінку мобів:
 Herd Mentality
+Animals Herding
 boids - future
-Animals Herding - future instead of Herd Mentality
+~~Animals Herding - future instead of Herd Mentality~~
 
 чекнуть, що за льодовий кріпер, скоріше за все прибрати його  
 Creepers Burn in Daylight  +
