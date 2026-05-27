@@ -63,6 +63,7 @@ Tiny Skeletons+
 Вибір картин + додати більше (можливо) (Gallery + Portfolio, якщо ставити їх разом - передивитись картини з апдейтів 1.21, вони обидва їх додають)
 
 salt - future +
+
 Fast Item Frames?
 Fast Paintings
 
