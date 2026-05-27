@@ -62,6 +62,7 @@ Tiny Skeletons+
 
 salted???
 Fast Item Frames?
+Fast Paintings
 
 модель летючої миші поправити
 вирубити квітучих корів
@@ -71,6 +72,6 @@ Fast Item Frames?
 map atlases додано в збірку назад, перемога+
 незермап фабрік +
 налаштувати мап атлас
-Ink & Quill ???
+Ink & Quill мод ???
 
 
