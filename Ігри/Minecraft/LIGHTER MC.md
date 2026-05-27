@@ -77,4 +77,6 @@ map atlases додано в збірку назад, перемога+
 налаштувати мап атлас
 Ink & Quill мод ???
 
+right click harvest з мотигою
+
 
