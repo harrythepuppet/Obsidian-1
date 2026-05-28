@@ -76,6 +76,7 @@ map atlases додано в збірку назад, перемога+
 незермап фабрік +
 налаштувати мап атлас
 Ink & Quill мод ???
+Loadstones - future
 
 right click harvest з мотигою
 
