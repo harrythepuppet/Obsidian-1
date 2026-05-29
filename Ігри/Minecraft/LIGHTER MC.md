@@ -76,8 +76,8 @@ map atlases додано в збірку назад, перемога+
 незермап фабрік +
 налаштувати мап атлас
 Ink & Quill мод ???
-Loadstones - future
+Loadstones - future +
 
-right click harvest з мотигою
+right click harvest з мотигою +
 
-Переїзд на KubeJS
+Переїзд на KubeJS +
