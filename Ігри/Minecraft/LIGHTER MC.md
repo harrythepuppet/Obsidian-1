@@ -63,7 +63,7 @@ Tiny Skeletons+
 Вибір картин + додати більше +
 salt - future +
 Portfolio - future
-Fast Item Frames
+Fast Item Frames - future+
 Fast Paintings - bugs
 
 модель летючої миші поправити
