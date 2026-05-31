@@ -89,10 +89,10 @@ Scholar - future +
 #### **a-0.4**
 перекласти на укр raw pie crust
 Sounds - future
-аксіом конфлікт інпутів виправити
+аксіом конфлікт інпутів виправити +-
 **налаштувати групи зачарів** +
 вимкнути гімміки з зачарів гостроти +
 
-Raised
-Crosshair
+Raised - bug
+Crosshair - crash
 Air Hop +
