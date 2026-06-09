@@ -136,5 +136,8 @@ LootJS - протестити на селищі з рівнин + протест
 ### БЕКПОРТИ
 # Vanilla Backport
 
+# Instant Feedback for Vanilla Backport
+https://modrinth.com/mod/instant-feedback-backport/gallery
+
 Можливо
 # Vanilla Backport Compat
