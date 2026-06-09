@@ -125,6 +125,7 @@ LootJS - протестити на селищі з рівнин + протест
 5) # Reconnectible Chains + 
 6) Енд ремастеред, запланувати
 7) ~~Polytone, Sunbathing Godrays вручну переробити під 1.20.1~~
+8) Canvas Renderer + Ecos Resourcepack
 ### **a-1.2**
 
 ### INTEGRATED COMPLICATED
