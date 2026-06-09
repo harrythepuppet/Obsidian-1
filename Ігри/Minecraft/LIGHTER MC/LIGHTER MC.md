@@ -122,10 +122,10 @@ LootJS - протестити на селищі з рівнин + протест
 2) Перейти з ітем облітерейтора на Reliable Remover
 3) Перейти з Block Swap на Reliable Replacer
 4) Граплінг хук протестувати, якщо все ок - засунути в незер фортецю, створити датапак для фіксу структур
-5) # Reconnectible Chains + 
+5) Reconnectible Chains + Zipline rezipped
 6) Енд ремастеред, запланувати
 7) ~~Polytone, Sunbathing Godrays вручну переробити під 1.20.1~~
-8) Canvas Renderer + Ecos Resourcepack
+8) ~~Canvas Renderer + Ecos Resourcepack~~
 ### **a-1.2**
 
 ### INTEGRATED COMPLICATED
