@@ -198,7 +198,7 @@ wisteria vines fuel source
 	3) Ітеми вернути(скриню, кнопки, статуї, яйце спавну)
 	4) Модельки і текстурки голема з френдс фоес почистити
 7) diamond_nugget to diamond arrows, SALT WATER RECIPE IS CRRRINGGGEEEE
-8) 
+8) Rooted grass замінити на Rooted Dirt при копанні
 
 ### **a-1.4(іллю додати)**
 1) почати ачівки
