@@ -199,6 +199,7 @@ wisteria vines fuel source
 	4) Модельки і текстурки голема з френдс фоес почистити
 7) diamond_nugget to diamond arrows, SALT WATER RECIPE IS CRRRINGGGEEEE
 8) Rooted grass замінити на Rooted Dirt при копанні
+9) Copper Age Backport Shelf, якийсь мод заважає завантажити текстури
 
 ### **a-1.4(іллю додати)**
 1) почати ачівки
