@@ -201,6 +201,7 @@ wisteria vines fuel source
 8) Rooted grass замінити на Rooted Dirt при копанні
 9) Copper Age Backport Shelf, якийсь мод заважає завантажити текстури
 10) Перебрав фабричні моди![[Pasted image 20260903113418.png]]![[Pasted image 20260903113502.png]]
+11) Виправив реєстрацію полиць
 
 ### **a-1.4(іллю додати)**
 1) почати ачівки
