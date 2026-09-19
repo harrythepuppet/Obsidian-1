@@ -4,7 +4,7 @@ https://docs.google.com/document/u/0/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwf
 Brutal horror/shooter about a retired detective, trying to solve cold case of a murderous cult.
 
 ## Design Pillars:
-Tough, da
+Tough, dark, bruised
 
 ## Genre/Story/Mechanics Summary:
 List what the game is from a gameplay and/or story perspective. (Example: This game uses a unique swinging rope mechanic to tell a story about what it means to be a meatball...)
