@@ -1,15 +1,9 @@
-Edit with the Docs app
-Make tweaks, leave comments, and share with others to edit at the same time.
-NO THANKSUSE THE APP
+https://docs.google.com/document/u/0/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/mobilebasic
 
-One Page Game Design Document Template
-One-page design document
-
-DO 
-Game Identity / Mantra:
+## Game Identity:
 List your single sentence description of the game that you will use to guide design decisions. (Example: Stylized action platformer about a meatball fighting the dinner table.)
 
-Design Pillars:
+## Design Pillars:
 List up to 3 words/phrases that convey the feeling or emotion you want the player to experience. (Example: Fast. Action-packed. Mayhem.)
 
 Genre/Story/Mechanics Summary:
