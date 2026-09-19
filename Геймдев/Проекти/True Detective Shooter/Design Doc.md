@@ -8,7 +8,7 @@ Tough, dark, bruised
 
 ## Genre/Story/Mechanics Summary:
 List what the game is from a gameplay and/or story perspective. 
-This shooter is a lingering dark story of a retired cop and war veteran, with psychosis, based on his mutant powers. He tries to end an existence of a cult, based on a false prophecy of a serial killer he's caught years ago. For this, 
+This shooter is a lingering dark story of a retired cop and war veteran, with psychosis, based on his mutant powers. He tries to end an existence of a cult, based on a false prophecy of a serial killer he's caught years ago. For this, he tears through enemies to find out the truth.
 ## Features:
 List the cool features or unique elements that you want to include in your game.
 
