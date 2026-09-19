@@ -15,14 +15,15 @@ List the cool features or unique elements that you want to include in your game.
 ## Interface:
 List the player input method, the controls, and how the player interacts with your game.
 
-Art Style:
+## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 
-Music/Sound:
+## Music/Sound:
 Include links to music and sound design similar to What you're trying to achieve. You can also list the emotional responses that the sound should invoke in the player.
 
-Development Roadmap / Launch Criteria:
-Platform: Steam/Google Play/iOS/Web.                 Audience: Age/gender/interests.
+## Development Roadmap / Launch Criteria:
+Platform: Steam/ItWeb. 
+Audience: Age/gender/interests.
 
 Milestone 1: Mechanics complete - 0/0/00
 
