@@ -7,7 +7,7 @@ Brutal horror/shooter about a retired detective, trying to solve cold case of a 
 Tough, dark, bruised
 
 ## Genre/Story/Mechanics Summary:
-List what the game is from a gameplay and/or story perspective. (Example: This game uses a unique swinging rope mechanic to tell a story about what it means to be a meatball...)
+List what the game is from a gameplay and/or story perspective. 
 
 ## Features:
 List the cool features or unique elements that you want to include in your game.
