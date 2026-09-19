@@ -8,7 +8,7 @@ Tough, dark, bruised
 
 ## Genre/Story/Mechanics Summary:
 List what the game is from a gameplay and/or story perspective. 
-This 
+This shooter is a lingering dark story 
 ## Features:
 List the cool features or unique elements that you want to include in your game.
 
