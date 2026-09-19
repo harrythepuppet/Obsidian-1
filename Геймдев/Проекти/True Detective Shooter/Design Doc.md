@@ -8,7 +8,7 @@ Tough, dark, bruised
 
 ## Genre/Story/Mechanics Summary:
 List what the game is from a gameplay and/or story perspective. 
-This shooter is a lingering dark story of a retired cop and war veteran, with psychosis, based on his mutant powers. He tries to end an existance of a cult, based on a false prophecy of a serial killer he's caught years ago. 
+This shooter is a lingering dark story of a retired cop and war veteran, with psychosis, based on his mutant powers. He tries to end an existence of a cult, based on a false prophecy of a serial killer he's caught years ago. For this, he 
 ## Features:
 List the cool features or unique elements that you want to include in your game.
 
@@ -44,3 +44,5 @@ Special thanks to Josehzz. Made with love by http://gdu.io
 
 © 2017 Game Dev Underground. Free to use/modify/distribute under CC 4.0.
 ![[Screenshot_20260919_192301_Steam.jpg]]
+
+![[Screenshot_20260919_192309_Steam.jpg]]
