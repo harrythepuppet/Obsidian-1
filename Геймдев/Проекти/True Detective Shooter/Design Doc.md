@@ -18,7 +18,6 @@ List the player input method, the controls, and how the player interacts with yo
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 Paranormasight:
-
 ## Music/Sound:
 Include links to music and sound design similar to What you're trying to achieve. You can also list the emotional responses that the sound should invoke in the player.
 
@@ -44,3 +43,4 @@ Launch Day: 0/0/00
 Special thanks to Josehzz. Made with love by http://gdu.io
 
 © 2017 Game Dev Underground. Free to use/modify/distribute under CC 4.0.
+![[Screenshot_20260919_192301_Steam.jpg]]
