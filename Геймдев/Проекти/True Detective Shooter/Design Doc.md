@@ -1,7 +1,7 @@
 https://docs.google.com/document/u/0/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/mobilebasic
 
 ## Game Identity:
-Brutal horror/sabout 
+Brutal horror/shooter about a retired detective, trying to solve
 
 ## Design Pillars:
 List up to 3 words/phrases that convey the feeling or emotion you want the player to experience. (Example: Fast. Action-packed. Mayhem.)
