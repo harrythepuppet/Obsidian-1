@@ -6,13 +6,13 @@ List your single sentence description of the game that you will use to guide des
 ## Design Pillars:
 List up to 3 words/phrases that convey the feeling or emotion you want the player to experience. (Example: Fast. Action-packed. Mayhem.)
 
-Genre/Story/Mechanics Summary:
+## Genre/Story/Mechanics Summary:
 List what the game is from a gameplay and/or story perspective. (Example: This game uses a unique swinging rope mechanic to tell a story about what it means to be a meatball...)
 
-Features:
+## Features:
 List the cool features or unique elements that you want to include in your game.
 
-Interface:
+## Interface:
 List the player input method, the controls, and how the player interacts with your game.
 
 Art Style:
