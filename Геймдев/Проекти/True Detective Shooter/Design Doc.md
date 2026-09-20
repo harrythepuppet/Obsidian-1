@@ -11,7 +11,8 @@ List what the game is from a gameplay and/or story perspective.
 This shooter is a lingering dark story of a retired cop and war veteran, with psychosis, based on his mutant powers. He tries to end an existence of a cult, based on a false prophecy of a serial killer he's caught years ago. For this, he tears through enemies to find out the truth.
 ## Features:
 - Physical inventory: items in inventory have physical bodies that collide with each other in inventory screen, items that fell off screen are dropping from player so you have to manage their packing manually.
-- Methodical fighting system: in addition to ranged combat, you have an arsenal of melee combat and various skills, such as crouching and covering, throwing weapons to stun enemies, o
+- Methodical fighting system: in addition to ranged combat, you have an arsenal of melee combat and various skills, such as crouching and covering, throwing weapons to stun enemies, or items to distract them.
+- 
 
 ## Interface:
 List the player input method, the controls, and how the player interacts with your game.
