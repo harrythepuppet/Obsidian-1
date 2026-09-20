@@ -23,6 +23,8 @@ Q/E - two-handed weapon 1/2
 To move:
 WASD - moving
 Mouse movement - turning
+Shift - run
+Ctrl - crouch
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 Paranormasight:
