@@ -18,7 +18,8 @@ This shooter is a lingering dark story of a retired cop and war veteran, with ps
 Player interacts with the world through just one button - interact(space)
 To use weapons/items:
 Q/E - two-handed weapon 1/2
-1,2/3,4 - choose one-handed item/weapon
+1,2/3,4 - choose one-handed item/weapon L/R
+LMB/RMB - Use 
 
 To move:
 WASD - moving
