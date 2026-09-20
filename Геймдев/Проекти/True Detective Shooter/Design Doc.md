@@ -15,7 +15,8 @@ This shooter is a lingering dark story of a retired cop and war veteran, with ps
 - (maybe) Investigation still ongoing: solve puzzles on levels to discover gear, resources or collectibles/notes. Locate enemies by their behavior.
 
 ## Interface:
-Player interacts with the world through just on
+Player interacts with the world through just one button - interact(space)
+To 
 
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
