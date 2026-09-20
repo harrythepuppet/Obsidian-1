@@ -21,7 +21,8 @@ Q/E - two-handed weapon 1/2
 1,2/3,4 - choose one-handed item/weapon
 
 To move:
-WASD - mo
+WASD - moving
+Mouse movement - turning
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 Paranormasight:
