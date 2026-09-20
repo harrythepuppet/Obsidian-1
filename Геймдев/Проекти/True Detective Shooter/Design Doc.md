@@ -12,7 +12,7 @@ This shooter is a lingering dark story of a retired cop and war veteran, with ps
 ## Features:
 - Physical inventory: items in inventory have physical bodies that collide with each other in inventory screen, items that fell off screen are dropping from player so you have to manage their packing manually.
 - Methodical fighting system: in addition to ranged combat, you have an arsenal of melee combat and various skills, such as crouching and covering, throwing weapons to stun enemies, or items to distract them.
-- 
+- (maybe) Investigation still ongoing: solve puzzles on levels to discover gear, resources or collectibles/notes
 
 ## Interface:
 List the player input method, the controls, and how the player interacts with your game.
