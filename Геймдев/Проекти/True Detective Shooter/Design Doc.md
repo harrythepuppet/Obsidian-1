@@ -20,6 +20,9 @@ List the player input method, the controls, and how the player interacts with yo
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 Paranormasight:
+
+Spirit Desire art:
+
 ## Music/Sound:
 Include links to music and sound design similar to What you're trying to achieve. You can also list the emotional responses that the sound should invoke in the player.
 
