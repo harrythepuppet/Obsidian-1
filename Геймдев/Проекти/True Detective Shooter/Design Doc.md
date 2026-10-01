@@ -15,11 +15,11 @@ This shooter is a lingering dark story of a retired cop and war veteran, with ps
 - (maybe) Investigation still ongoing: solve puzzles on levels to discover gear, resources or collectibles/notes. Locate enemies by their behavior.
 
 ## Interface:
-Player interacts with the world through just one button - interact(space)
+Player interacts with the world through just one button - interact/open inventory(space)
 To use weapons/items:
 Q/E - two-handed weapon 1/2
 1,2/3,4 - choose one-handed item/weapon L/R
-LMB/RMB - Use 
+LMB/RMB - Use item
 
 To move:
 WASD - moving
