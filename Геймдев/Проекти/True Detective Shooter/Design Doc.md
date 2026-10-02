@@ -33,7 +33,7 @@ Paranormasight:
 Spirit Desire art:
 
 ## Music/Sound:
-Include links to music and sound design similar to What you're trying to achieve. You can also list the emotional responses that the sound should invoke in the player.
+Music is
 
 ## Development Roadmap / Launch Criteria:
 Platform: Steam/ItWeb. 
