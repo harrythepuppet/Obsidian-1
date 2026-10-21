@@ -39,9 +39,12 @@ Music is
 Platform: Steam/ItWeb. 
 Audience: Age/gender/interests.
 
-Milestone 1: Mechanics complete - 0/0/00
+Milestone 1: Basic Mechanics complete - 0/0/00
+Shooting
+Moving
+Enemy
 
-Milestone 2: Boss fights complete - 0/0/00
+Milestone 2: Secondary mechanics complete - 0/0/00
 
 Milestone 3: Levels complete -  0/0/00
 
