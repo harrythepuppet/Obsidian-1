@@ -29,9 +29,13 @@ Ctrl - crouch
 ## Art Style:
 Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.
 Paranormasight:
-
+![[Screenshot_20260919_192301_Steam.jpg]]
+![[Screenshot_20260919_192309_Steam.jpg]]
 Spirit Desire art:
-
+![[IMG_20260920_065922_956.jpg]]
+![[IMG_20260920_065931_328.jpg]]
+![[IMG_20260920_065939_867.jpg]]
+![[IMG_20260920_065952_336.jpg]]
 ## Music/Sound:
 Music is
 
@@ -60,14 +64,8 @@ Launch Day: 0/0/00
 Special thanks to Josehzz. Made with love by http://gdu.io
 
 © 2017 Game Dev Underground. Free to use/modify/distribute under CC 4.0.
-![[Screenshot_20260919_192301_Steam.jpg]]
 
-![[Screenshot_20260919_192309_Steam.jpg]]
 
-![[IMG_20260920_065952_336.jpg]]
-![[IMG_20260920_065939_867.jpg]]
-![[IMG_20260920_065931_328.jpg]]
-![[IMG_20260920_065922_956.jpg]]
 ![[IMG_20260920_065857_167.jpg]]
 ![[IMG_20260920_065743_205.jpg]]
 ![[IMG_20260920_065722_905.jpg]]
